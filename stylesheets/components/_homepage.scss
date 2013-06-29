@@ -53,7 +53,7 @@ header {
         @include transition(background-color 0.2s);
 
         &:hover {
-          background-color: $bw_6;
+          background-color: $cyan;
         }
       }
     }
