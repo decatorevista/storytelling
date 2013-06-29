@@ -1,0 +1,44 @@
+body {
+  font: 400 14px/1.5 $oxygen;
+  color: $black;
+  text-align: center;
+  background-color: $white;
+}
+
+a {
+  color: $cyan;
+  text-decoration: none;
+  @include transition(color 0.2s);
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h1 {
+  font-size: em(44);
+}
+
+h2 {
+  font-size: em(37);
+}
+
+h3 {
+  font-size: em(27);
+}
+
+h4 {
+  font-size: em(23);
+}
+
+h5 {
+  font-size: em(18);
+}
+
+h6 {
+  font-size: 1em;
+}
+
+.wrapper {
+  @include outer-container;
+}
