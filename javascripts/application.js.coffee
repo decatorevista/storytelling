@@ -18,7 +18,7 @@
             EMAIL: email
 
         self.fadeOut 'slow', ->
-          heading = self.parent().find( 'h3' )
+          heading = self.parent().find( 'h4' )
           thankyou = heading.data('thankyou')
           heading.fadeOut 'slow', ->
             heading.text(thankyou)
