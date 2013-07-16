@@ -9,5 +9,5 @@ group :development do
   gem 'rb-inotify'
   gem 'bourbon'
   gem 'neat'
-  gem 'mina-s3', :github => 'stas/mina-s3'
+  gem 'mina-ftp'
 end
