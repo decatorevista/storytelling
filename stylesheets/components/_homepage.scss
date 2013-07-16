@@ -3,21 +3,18 @@ header, #content, footer {
 }
 
 header {
-  background: url('images/branding.png') no-repeat center;
+  background: url('images/branding.png') no-repeat top center;
 
   h2 {
     font-family: $sans-pro;
     font-weight: 900;
-    padding-top: 350px;
+    padding-top: 250px;
     color: $green;
+    margin-bottom: $gutter / 2;
   }
 
-  .sponsors {
-    @include span-columns(6);
-    @include shift(3);
-
-    background: url('images/logouri.png') no-repeat center;
-    height: 32px;
+  h3 {
+    margin-bottom: $gutter / 2;
   }
 
 }
