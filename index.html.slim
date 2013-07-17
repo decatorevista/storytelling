@@ -1,43 +1,131 @@
-doctype html
+doctype 5
 html
   head
     title The Power of Storytelling &bull; Saturday, October 5, 2013
+    meta charset='utf-8'
     meta name='keywords' content='narrative journalism conference dor bucharest'
-    meta name='author' content='Decât o Revistă'
+    meta name='author' content='Decât o Revistă | decatorevista.ro'
     meta name='viewport' content='width=device-width, initial-scale=1.0'
     meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'
-    link rel='shortcut icon' type='image/x-icon' href='assets/images/favicon.ico'
+    link rel='icon' type='image/png' href='assets/images/favicon.png'
     link rel='stylesheet' href='http://necolas.github.io/normalize.css/2.1.2/normalize.css'
     link rel='stylesheet' href='assets/application.css'
 
   body
     .wrapper
       header
-        h2 Saturday, October 5, 2013
-        img src='assets/images/pullman.png' alt='Pullman Hotels &amp; Resorts' title='Pullman Hotels &amp; Resorts'
+        .branding
+          .when
+            h3 Saturday, October 5, 2013
+          .by
+            img src='assets/images/pullman.png' alt='Pullman Hotels &amp; Resorts' title='Pullman Hotels &amp; Resorts'
 
-        h3 Hosted by
-        img src='assets/images/dor.png' alt='Decât o Revistă' title='Decât o Revistă'
-
-      section#content
-        h4 data-thankyou='Thank you for your interest.' Sign up for conference news.
-
-        form#subscribe action='http://decatorevista.us4.list-manage.com/subscribe/post?u=e0e3ba0b168a961b7b80c955e&amp;id=392861be87' method='post'
-          input.email type='email' name='EMAIL' required='true' placeholder='Your email goes here...'
-          input.send type='submit' value='Subscribe'
-
-        article
-          p More details will follow mid-July.
-
+        .intro
           p
-            |
-              If you have any questions, or if you would like to become a
-              supporter of the conference, email
-            a< href='mailto:storytelling@decatorevista.ro'
-              | storytelling@decatorevista.ro
-            |.
+            | If stories can be a force for good as a society examines itself
+              and sets course for the future, what are the best practices
+              and tools needed to create impact?
+              These are some of other questions the conference will explore
+              through discussions of reporting and writing creative nonfiction
+              and producing documentary films.
 
-          hr
+        .newsletter
+          .hosted-by
+            img src='assets/images/decatorevista.png' alt='Decât o Revistă' title='Decât o Revistă'
+
+          .thankyou
+            h5.ty data-thankyou='Thank you for your interest.'
+              | Sign up for conference news:
+
+          form#subscribe action='http://decatorevista.us4.list-manage.com/subscribe/post?u=e0e3ba0b168a961b7b80c955e&amp;id=392861be87' method='post'
+            input.email type='email' name='EMAIL' required='true' placeholder='Your email goes here...'
+            input.send type='submit' value='Subscribe'
+
+    .highlight
+      .wrapper
+        section#content
+
+          .welcome
+
+            h1
+              | Join us on October 5 in Bucharest,
+              br
+              | at Pullman Hotel/World Trade Center
+
+            p
+              | We want to create a mix between journalism and connected fields.
+                The speakers will present a range of ways and options to talk
+                about how storytelling, in various forms, tackles the
+                problems in our society.
+                Some stand back and report the story, some advocate for
+                a direction, some campaign.
+
+            hr
+
+          .speakers
+
+            h2 Speakers
+
+            .jacqui
+              img src='assets/images/speakers/jacqui.jpg' alt='Jacqui Banaszynski' title='Jacqui Banaszynski'
+              h3 Jacqui Banaszynski
+              p
+                | Jacqui is a Pulitzer Prize winning reporter who now holds
+                  the Knight Chair in Editing at the Missouri School of
+                  Journalism and is on the visiting faculty of
+                  The Poynter Institute. This is her fourth visit to Romania.
+
+            .chris
+              img src='assets/images/speakers/chris.jpg' alt='Chris Jones' title='Chris Jones'
+              h3 Chris Jones
+              p
+                | Chris is a writer at large for Esquire and a back-page
+                  columnist for ESPN: The Magazine. He has won two
+                  National Magazine Awards. He is returning to Bucharest
+                  this year to rediscover the passion he found
+                  at the 2012 edition.
+
+            .tom
+              img src='assets/images/speakers/tom.jpg' alt='Tom Junod' title='Tom Junod'
+              h3 Tom Junod
+              p
+                | Tom has been a Writer-At-Large for Esquire for 16 years.
+                  He has been a finalist for the National Magazine Award
+                  a record 11 times, and has won twice for Feature Writing.
+
+            .mona
+              img src='assets/images/speakers/mona.jpg' alt='Mona Nicoară' title='Mona Nicoară'
+              h3 Mona Nicoară
+              p
+                | Documentary film director, producer and writer,
+                  Mona was born in Communist Romania and, until 1989,
+                  dedicated her early years to becoming a poet in a small,
+                  largely underground community of young writers.
+
+    .lighted
+      .wrapper
+
+        section#pre-footer
+
+          .newsletter
+            h2.ty data-thankyou='Thank you for your interest.'
+              | Sign up for conference news
+
+            form#last-subscribe action='http://decatorevista.us4.list-manage.com/subscribe/post?u=e0e3ba0b168a961b7b80c955e&amp;id=392861be87' method='post'
+              input.email type='email' name='EMAIL' required='true' placeholder='Your email goes here...'
+              input.send type='submit' value='Subscribe'
+
+    .wrapper
+
+      section#partnerships
+
+        .contact
+          p
+            | If you have any questions, of if you would like to become
+              a supporter of the conference, email
+            a< href='mailto:storytelling@decatorevista.ro'
+              |storytelling@decatorevista.ro
+            |.
 
           p
             | See what happened at the
@@ -46,14 +134,49 @@ html
             a<> href='http://decatorevista.ro/storytelling/2012/' 2012
             | editions.
 
-      footer
-        script src='//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js'
-        script src='assets/application.js'
-        javascript:
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-            ga('create', 'UA-9065846-2', 'decatorevista.ro');
-            ga('send', 'pageview');
+        .partners
+
+          h2 Partners
+
+          .primary
+            p
+              img src='assets/images/partners/usdos.png' alt='US DoS' title='US DoS'
+
+            p
+              img src='assets/images/partners/usdos_1.png' alt='US DoS' title='US DoS'
+
+            p
+              img src='assets/images/partners/unicredit.png' alt='Unicredit Țiriac Bank' title='Unicredit Țiriac Bank'
+
+          .secondary
+
+            p
+              img src='assets/images/partners/stiftung.png' alt='Stiftung' title='Stiftung'
+
+            p.middle
+              img src='assets/images/partners/orange.png' alt='Orange' title='Orange'
+
+            p
+              img src='assets/images/partners/bmw.png' alt='BMW Group' title='BMW Group'
+
+
+    .lighted
+      .wrapper
+        footer
+
+          p
+            | &copy; 2013
+            a< href='http://decatorevista.ro'
+              | Decât o Revistă
+
+          script src='//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js'
+          script src='assets/application.js'
+          javascript:
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+              m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+              })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+              ga('create', 'UA-9065846-2', 'decatorevista.ro');
+              ga('send', 'pageview');

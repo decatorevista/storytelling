@@ -18,7 +18,7 @@
             EMAIL: email
 
         self.fadeOut 'slow', ->
-          heading = self.parent().find( 'h4' )
+          heading = self.parent().find( '.ty' )
           thankyou = heading.data('thankyou')
           heading.fadeOut 'slow', ->
             heading.text(thankyou)
@@ -28,6 +28,7 @@
 
     run: ->
       @mailchimp_on( '#subscribe' )
+      @mailchimp_on( '#last-subscribe' )
       @
 
   w.Storytelling = Storytelling

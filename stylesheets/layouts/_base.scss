@@ -1,12 +1,15 @@
 body {
-  font: 400 14px/1.5 $oxygen;
+  font: 300 16px/1.5 $sans-pro;
   color: $black;
-  text-align: center;
   background-color: $white;
+
+  input {
+    outline: none;
+  }
 }
 
 a {
-  color: $cyan;
+  color: $cyan_dark;
   text-decoration: none;
   @include transition(color 0.2s);
 
@@ -41,9 +44,4 @@ h6 {
 
 .wrapper {
   @include outer-container;
-}
-
-hr {
-  border: none;
-  border-top: 1px solid $cyan;
 }
