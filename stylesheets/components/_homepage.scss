@@ -3,7 +3,10 @@ header, #content, footer {
 }
 
 body {
-  background: url('images/bg-cyan.png') no-repeat 100% -120px;
+  .light {
+    background: url('images/bg-cyan.png') no-repeat 100% -120px;
+    background-attachment: fixed;
+  }
 
   .highlight {
     background: $cyan_dark url('images/bg-green.png') no-repeat top right;
