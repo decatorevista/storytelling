@@ -44,7 +44,6 @@
     run: ->
       @parallax_on( 'body .light' )
       @parallax_on( 'body .highlight' )
-      @mailchimp_on( '#subscribe' )
       @mailchimp_on( '#last-subscribe' )
       @
 
