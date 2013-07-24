@@ -157,8 +157,19 @@ header {
 
     .primary {
       @include span-columns(12);
+
+      .single {
+        @include span-columns(12);
+
+        p {
+          @include span-columns(4);
+          @include shift(2);
+        }
+      }
+
       p {
         @include span-columns(4);
+        @include shift(4);
       }
     }
 
