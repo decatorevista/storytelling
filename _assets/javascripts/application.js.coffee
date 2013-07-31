@@ -4,6 +4,21 @@
   $doc = $(document)
 
   Storytelling =
+    parallax_on: (selector) ->
+      _w = $(w)
+      $(selector).each ->
+        self = $(this)
+        offset = self.offset()
+
+        _w.scroll ->
+          if _w.scrollTop() + _w.height() > offset.top and offset.top + self.height() > _w.scrollTop()
+            yPos = -(_w.scrollTop() / self.data('speed'))
+
+            if self.data('offset-y')
+              yPos += self.data('offset-y')
+
+            self.css {backgroundPositionY: yPos + 'px'}
+
     mailchimp_on: (selector) ->
       $( selector ).submit ->
 
@@ -18,7 +33,7 @@
             EMAIL: email
 
         self.fadeOut 'slow', ->
-          heading = self.parent().find( 'h4' )
+          heading = self.parent().find( '.ty' )
           thankyou = heading.data('thankyou')
           heading.fadeOut 'slow', ->
             heading.text(thankyou)
@@ -27,7 +42,9 @@
         false
 
     run: ->
-      @mailchimp_on( '#subscribe' )
+      @parallax_on( 'body .light' )
+      @parallax_on( 'body .highlight' )
+      @mailchimp_on( '#last-subscribe' )
       @
 
   w.Storytelling = Storytelling
