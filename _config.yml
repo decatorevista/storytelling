@@ -2,6 +2,12 @@ name: The Power of Storytelling
 markdown: kramdown
 pygments: false
 baseurl: /storytelling/2013/
+destination: public
+exclude:
+  - Minafile
+  - wercker.yml
+  - Gemfile
+  - Gemfile.lock
 kramdown:
   auto_ids: true
   footnote_nr: 1
