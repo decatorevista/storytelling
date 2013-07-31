@@ -1,0 +1,18 @@
+require 'mina/ftp'
+
+# FTP settings
+set :ftp_path, 'decatorevista.ro/storytelling/2013'
+set :ftp_host, 'ftp.decatorevista.ro'
+set :ftp_user, 'decatorev'
+set :ftp_password, 'd3cat0data'
+
+desc 'Deploys the current version to the server.'
+task :deploy do
+  invoke :'jekyll:build'
+  invoke :'ftp:deploy'
+end
+
+desc 'Build the Jekyll website'
+task :'jekyll:build' do
+  queue 'bundle exec jekyll build'
+end
