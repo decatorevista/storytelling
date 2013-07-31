@@ -3,6 +3,8 @@ layout: default
 title: Saturday, October 5, 2013
 ---
 
+| {% slim header.slim %}
+
 .highlight data-speed='2' data-offset-y='300'
   .wrapper
     section#content
@@ -12,7 +14,7 @@ title: Saturday, October 5, 2013
         h2 Speakers
 
         .jacqui
-          img src='{{asset_path jacqui.jpg}}' alt='Jacqui Banaszynski' title='Jacqui Banaszynski'
+          img src='{% asset_path speakers/jacqui.jpg %} ' alt='Jacqui Banaszynski' title='Jacqui Banaszynski'
           h3 Jacqui Banaszynski
           p
             | Jacqui Banaszynski is a Pulitzer Prize winning reporter who
@@ -21,7 +23,7 @@ title: Saturday, October 5, 2013
               The Poynter Institute. This is her fourth visit to Romania.
 
         .chris
-          img src='{{asset_path chris.jpg}}' alt='Chris Jones' title='Chris Jones'
+          img src='{% asset_path speakers/chris.jpg %} ' alt='Chris Jones' title='Chris Jones'
           h3 Chris Jones
           p
             | Chris Jones is a writer-at-large for Esquire and a back-page
@@ -30,7 +32,7 @@ title: Saturday, October 5, 2013
               rediscover the passion he found at the 2012 edition.
 
         .tom
-          img src='{{asset_path tom.jpg}}' alt='Tom Junod' title='Tom Junod'
+          img src='{% asset_path speakers/tom.jpg %} ' alt='Tom Junod' title='Tom Junod'
           h3 Tom Junod
           p
             | Tom Junod has been a writer-at-large for Esquire US
@@ -39,7 +41,7 @@ title: Saturday, October 5, 2013
               and has won twice for Feature Writing.
 
         .mona
-          img src='{{asset_path mona.jpg}}' alt='Mona Nicoară' title='Mona Nicoară'
+          img src='{% asset_path speakers/mona.jpg %} ' alt='Mona Nicoară' title='Mona Nicoară'
           h3 Mona Nicoară
           p
             | Documentary film director, producer and writer,
@@ -73,18 +75,20 @@ title: Saturday, October 5, 2013
       .primary
         .single
           p
-            img src='{{asset_path usdos.png}}' alt='US DoS' title='US DoS'
+            img src='{% asset_path partners/usdos.png %} ' alt='US DoS' title='US DoS'
 
         p
-          img src='{{asset_path unicredit.png}}' alt='Unicredit Țiriac Bank' title='Unicredit Țiriac Bank'
+          img src='{% asset_path partners/unicredit.png %} ' alt='Unicredit Țiriac Bank' title='Unicredit Țiriac Bank'
 
       .secondary
 
         p
-          img src='{{asset_path stiftung.png}}' alt='Stiftung' title='Stiftung'
+          img src='{% asset_path partners/stiftung.png %} ' alt='Stiftung' title='Stiftung'
 
         p.middle
-          img src='{{asset_path orange.png}}' alt='Orange' title='Orange'
+          img src='{% asset_path partners/orange.png %} ' alt='Orange' title='Orange'
 
         p
-          img src='{{asset_path bmw.png}}' alt='BMW Group' title='BMW Group'
+          img src='{% asset_path partners/bmw.png %} ' alt='BMW Group' title='BMW Group'
+
+| {% slim footer.slim %}
