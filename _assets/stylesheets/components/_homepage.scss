@@ -1,0 +1,73 @@
+header, #content, footer {
+  @include span-columns(12);
+}
+
+header {
+  background: url('images/branding.png') no-repeat top center;
+
+  h2 {
+    font-family: $sans-pro;
+    font-weight: 900;
+    padding-top: 250px;
+    color: $green;
+    margin-bottom: $gutter / 2;
+  }
+
+  h3 {
+    margin-bottom: $gutter / 2;
+  }
+
+}
+
+#content {
+  h4 {
+    color: $cyan;
+    font-weight: 700;
+  }
+
+  #subscribe {
+    @include span-columns(2);
+    @include shift(5);
+
+    input {
+      width: 100%;
+
+      &.email {
+        border: 1px solid $bw_7;
+        padding: 5px;
+      }
+
+      &.send {
+        margin-top: 5px;
+        font-family: $sans-pro;
+        background-color: $bw_7;
+        border: none;
+        border-radius: 3px;
+        color: $white;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding: 5px;
+        @include transition(background-color 0.2s);
+
+        &:hover {
+          background-color: $cyan;
+        }
+      }
+    }
+  }
+
+  article {
+    padding-top: $gutter;
+    @include span-columns(4);
+    @include shift(4);
+
+    &.after-subscribing {
+      display: none;
+    }
+
+    p {
+      padding-left: $gutter;
+      padding-right: $gutter;
+    }
+  }
+}
