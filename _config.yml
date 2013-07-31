@@ -1,7 +1,7 @@
 name: The Power of Storytelling
 markdown: kramdown
 pygments: false
-# baseurl: '/storytelling/2013/'
+baseurl: '/storytelling/2013/'
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -12,3 +12,4 @@ kramdown:
 assets:
   js_compressor: uglifier
   css_compressor: sass
+  baseurl: /storytelling/2013/assets/
