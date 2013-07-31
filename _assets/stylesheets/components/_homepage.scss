@@ -1,73 +1,198 @@
 header, #content, footer {
-  @include span-columns(12);
+  @include row();
+}
+
+body {
+  .light {
+    background: url(asset_path('bg-cyan.png')) no-repeat 100% -120px;
+    background-attachment: fixed;
+  }
+
+  .highlight {
+    background: $cyan_dark url(asset_path('bg-green.png')) no-repeat top right;
+  }
+
+  .lighted {
+    background: $cyan_light;
+  }
 }
 
 header {
-  background: url('images/branding.png') no-repeat top center;
+  padding-top: 110px;
+  padding-bottom: $gutter * 2;
 
-  h2 {
-    font-family: $sans-pro;
-    font-weight: 900;
-    padding-top: 250px;
-    color: $green;
-    margin-bottom: $gutter / 2;
+  .branding {
+    @include span-columns(8);
+    background: url(asset_path('brand-large.png')) no-repeat top left;
+    padding-top: 320px;
+
+    .when {
+      @include span-columns(7);
+
+      padding-top: $gutter;
+
+      h3 {
+        color: $green_dark;
+        margin-bottom: 0;
+        margin-top: 0;
+      }
+    }
+
+    .by {
+      @include span-columns(3);
+      @include omega();
+
+      padding-top: $gutter;
+      text-align: left;
+    }
   }
 
-  h3 {
-    margin-bottom: $gutter / 2;
+  .intro {
+    @include span-columns(4);
+    @include omega();
+    @include pad($gutter * 4 0 0);
+
+    font-size: em(18);
+    color: $green_dark;
+  }
+}
+
+#content {
+  color: $white;
+  text-align: center;
+
+  .speakers {
+    @include span-columns(12);
+    @include pad($gutter 0 $gutter * 3);
+
+    h2 {
+      font-weight: normal;
+      font-size: em(40);
+    }
+
+    .jacqui, .chris, .tom, .mona {
+      @include span-columns(3);
+
+      h3 {
+        font-size: em(24);
+        margin-bottom: 0;
+      }
+
+      img {
+        border-radius: 1000px;
+      }
+
+      p {
+        margin-top: 0;
+        color: $cyan_light;
+        line-height: em(20);
+      }
+    }
   }
 
 }
 
-#content {
-  h4 {
-    color: $cyan;
-    font-weight: 700;
-  }
+#pre-footer {
+  .newsletter {
+    @include span-columns(12);
 
-  #subscribe {
-    @include span-columns(2);
-    @include shift(5);
+    text-align: center;
+    padding-bottom: 2 * $gutter;
 
-    input {
-      width: 100%;
+    h2 {
+      font-weight: 200;
+      color: $green_dark;
+      margin-bottom: 0;
+    }
 
-      &.email {
-        border: 1px solid $bw_7;
-        padding: 5px;
+    h3 {
+      margin-top: 0;
+      font-weight: normal;
+    }
+
+    form {
+      @include span-columns(6);
+      @include shift(3);
+
+      text-align: center;
+
+      input {
+        &.email {
+          @include span-columns(8, table);
+          @include pad($gutter $gutter/2);
+
+          border: 1px solid $cyan_dark;
+          font-size: em(16);
+        }
       }
 
-      &.send {
-        margin-top: 5px;
-        font-family: $sans-pro;
-        background-color: $bw_7;
-        border: none;
-        border-radius: 3px;
-        color: $white;
-        text-transform: uppercase;
-        font-weight: bold;
-        padding: 5px;
-        @include transition(background-color 0.2s);
+      .send {
+        @include span-columns(3, table);
+        @include buton();
+        @include omega();
 
-        &:hover {
-          background-color: $cyan;
+        font-size: em(16);
+      }
+    }
+  }
+}
+
+#partnerships {
+  .partners {
+    @include span-columns(12);
+
+    text-align: center;
+
+    h2 {
+      font-weight: 200;
+      color: $cyan_dark;
+    }
+
+    .primary {
+      @include span-columns(12);
+
+      .single {
+        @include span-columns(12);
+
+        p {
+          @include span-columns(4);
+          @include shift(2);
+        }
+      }
+
+      p {
+        @include span-columns(4);
+        @include shift(4);
+      }
+    }
+
+    .secondary {
+      @include span-columns(12);
+
+      p {
+        @include span-columns(4);
+        padding-top: $gutter;
+
+        &.middle {
+          border-top: 1px solid $cyan_lighted;
         }
       }
     }
   }
+}
 
-  article {
-    padding-top: $gutter;
-    @include span-columns(4);
-    @include shift(4);
+section#notes {
+  .contact {
+    @include span-columns(12);
 
-    &.after-subscribing {
-      display: none;
-    }
+    text-align: center;
+    border-top: 1px solid $cyan_lighted;
+  }
 
-    p {
-      padding-left: $gutter;
-      padding-right: $gutter;
-    }
+}
+
+footer {
+  p {
+    text-align: center;
   }
 }

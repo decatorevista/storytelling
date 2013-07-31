@@ -1,0 +1,32 @@
+nav#main-menu {
+  z-index: 1;
+  position: fixed;
+  width: 100%;
+  background: rgba($white, 0.95);
+
+  ul {
+    @include clearfix;
+
+    margin: 0;
+    border-bottom: 1px solid $green_dark;
+
+    li {
+      display: inline;
+      float: left;
+      margin-left: $gutter;
+
+      a {
+        text-decoration: none;
+        line-height: $gutter * 3;
+      }
+
+      &:hover, &.selected {
+        a {
+          color: $green_dark;
+        }
+        margin-bottom: -3px;
+        border-bottom: 3px solid $green_dark;
+      }
+    }
+  }
+}

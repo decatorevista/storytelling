@@ -16,17 +16,19 @@ $bw_1:   #0e1012;
 $white:  #fff;
 $black:  #333;
 
-$green: #005743;
-$cyan: #28998b;
+$green_dark:   #00412a;
+$green_light:  #b2ddd8;
+$cyan_dark:    #008d7d;
+$cyan_lighted: #6EC695;
+$cyan_light:   #ceecdb;
 
 // Grid
 
-$column:       60px;
-$gutter:       20px;
-$max-width:    100%;
-$grid-columns: 12;
-$visual-grid:  false;
+$column:        60px;
+$gutter:        20px;
+$max-width:     960px;
+$grid-columns:  12;
+$visual-grid:   false;
 
 // Font Families
 $sans-pro: "Source Sans Pro", $helvetica;
-$oxygen: "Oxygen", $helvetica;

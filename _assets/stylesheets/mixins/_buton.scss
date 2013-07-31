@@ -1,0 +1,15 @@
+@mixin buton ($padding: $gutter) {
+  font-family: $sans-pro;
+  border: none;
+  color: $white;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: $cyan_dark;
+
+  @include pad($padding 0);
+  @include transition(background-color 0.2s);
+
+  &:hover {
+    background-color: $cyan_lighted;
+  }
+}
