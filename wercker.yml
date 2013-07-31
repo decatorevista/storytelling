@@ -8,8 +8,6 @@ build:
         echo "ruby version $(ruby --version) running"
         echo "from location $(which ruby)"
         echo -p "gem list: $(gem list)"
-
-    Add more steps here:
-      - script:
-        name: Runs jekyll and deploys static website to FTP
-        code: bundle exec mina deploy -v
+    - script:
+      name: Runs jekyll and deploys static website to FTP
+      code: bundle exec mina deploy -v
