@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Info Pack
+title: Welcome, international visitors
 sidebar: international
 ---
-
-# International visitors
 
 We want to help our international attendees with a few tips by making staying in Bucharest for a few days easier.
 
