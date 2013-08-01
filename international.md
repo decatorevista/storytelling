@@ -75,7 +75,7 @@ Order a taxi by phone:
 
 - Meridian: +4021.9444; +4021.9888; +4021.9484;
 
-- Cobalcescu: - +4021.9451
+- Cobalcescu: +4021.9451
 
 ## Currency
 
