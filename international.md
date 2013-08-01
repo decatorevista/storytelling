@@ -2,6 +2,7 @@
 layout: page
 title: Welcome, international visitors
 sidebar: international
+name: international
 ---
 
 We want to help our international attendees with a few tips by making staying in Bucharest for a few days easier.

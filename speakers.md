@@ -2,6 +2,7 @@
 layout: page
 title: Conference speakers
 sidebar: speakers
+name: speakers
 ---
 
 ### Tom Junod

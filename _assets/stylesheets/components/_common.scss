@@ -24,7 +24,9 @@ nav {
         text-decoration: none;
       }
 
-      &:hover, &.selected {
+      &:hover, .index &.index, .about &.about, .speakers &.speakers,
+      .schedule &.schedule, .international &.international,
+      .partners &.partners {
         margin-bottom: -3px;
 
         a {

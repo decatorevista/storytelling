@@ -2,6 +2,7 @@
 layout: page
 title: Conference schedule
 sidebar: schedule
+name: schedule
 ---
 
 The schedule is subject to change. All participants will be notified in advance.
