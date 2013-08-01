@@ -7,7 +7,7 @@ name: speakers
 
 ### Tom Junod
 
-![Tom Junod]({%asset_path speakers/tom.jpg %})
+![Tom Junod]({%asset_path speakers/page/tom.jpg %})
 
 Tom Junod has been a Writer-At-Large for Esquire for 16 years. He got his start writing for Atlanta Magazine, and has also written for Sports Illustrated and GQ. He has been a finalist for the National Magazine Award a record 11 times, and has won twice for Feature Writing.
 
@@ -17,7 +17,7 @@ His work has been widely anthologized, and *The Falling Man*, his 2003 story abo
 
 ### Chris Jones
 
-![Chris Jones]({% asset_path speakers/chris.jpg %})
+![Chris Jones]({% asset_path speakers/page/chris.jpg %})
 
 Chris Jones is an award winning writer-at-large for Esquire US, and a contributing editor for ESPN: The Magazine.
 
@@ -29,7 +29,7 @@ His work has also appeared in the Best American Magazine Writing, Best American 
 
 ### Jacqui Banaszynski
 
-![Jacqui Banaszynski]({% asset_path speakers/jacqui.jpg %})
+![Jacqui Banaszynski]({% asset_path speakers/page/jacqui.jpg %})
 
 Jacqui Banaszynski is a Pulitzer Prize winning reporter who now holds the Knight Chair in Editing at the Missouri School of Journalism and is on the visiting faculty of The Poynter Institute. She has worked as a reporter and editor for more than 30 years, most recently as Associate Managing Editor of the The Seattle Times.
 
@@ -41,7 +41,7 @@ She has edited several award-winning projects, and leads workshops for editors a
 
 ### Mona Nicoară
 
-![Mona Nicoară]({% asset_path speakers/mona.jpg %})
+![Mona Nicoară]({% asset_path speakers/page/mona.jpg %})
 
 Documentary film director, producer and writer, Mona Nicoară was born in Communist Romania and, until 1989, dedicated her early years to becoming a poet in a small, largely underground community of young writers.
 
