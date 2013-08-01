@@ -4,6 +4,8 @@ title: Speakers
 sidebar: speakers
 ---
 
+# Speakers
+
 ### Tom Junod
 
 ![Tom Junod]({%asset_path speakers/tom.jpg %})
@@ -12,7 +14,7 @@ Tom Junod has been a Writer-At-Large for Esquire for 16 years. He got his start 
 
 His work has been widely anthologized, and *The Falling Man*, his 2003 story about a photograph taken on 9/11, has been named one of the seven top stories in Esquire's 80 year history. Born and raised in Long Island, he lives in Marietta, with his wife and his daughter and his dog.
 
-He can be found on Twitter, [@TomJunod](http://www.twitter.com/tomjunod).
+> He can be found on Twitter, [@TomJunod](http://www.twitter.com/tomjunod).
 
 ### Chris Jones
 
@@ -24,7 +26,7 @@ He began his career as a boxing writer for the National Post in Toronto. This is
 
 His work has also appeared in the Best American Magazine Writing, Best American Sports Writing, and Best American Political Writing anthologies. He is coming back to Bucharest this year to rediscover the passion he found at the 2012 edition.
 
-Follow him on Twitter: [@MySecondEmpire](http://www.twitter.com/mysecondempire).
+> Follow him on Twitter: [@MySecondEmpire](http://www.twitter.com/mysecondempire).
 
 ### Jacqui Banaszynski
 
@@ -36,7 +38,7 @@ She has traveled to all seven continents, including Antarctica. She has covered 
 
 She has edited several award-winning projects, and leads workshops for editors and reporters around the world. This is her fourth visit to Romania.
 
-Follow her tweets at [@JacquiB](http://www.twitter.com/jacquib).
+> Follow her tweets at [@JacquiB](http://www.twitter.com/jacquib).
 
 ### Mona Nicoară
 
@@ -50,4 +52,4 @@ Beginning with 2005, she directed and produced Our School, which premiered in th
 
 Mona Nicoară’s publications include articles in academic journals, human rights reports and analyses, as well as op-eds and essays in *The Guardian*, *Dilema Veche* and *Decât o Revistă*.
 
-She tweets from [@monanicoara](http://www.twitter.com/monanicoara).
+> She tweets from [@monanicoara](http://www.twitter.com/monanicoara).
