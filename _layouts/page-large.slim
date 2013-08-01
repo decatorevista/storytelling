@@ -3,6 +3,14 @@
 body
   | {% slim page-header.slim %}
 
+  .lighted
+    .wrapper
+
+      section#page-title
+        .container
+          h2
+            | {{ page.title }}
+
   div
     .wrapper
       section#page-content
