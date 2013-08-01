@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Schedule
+title: Conference schedule
+sidebar: schedule
 ---
 
-# Schedule
+The schedule is subject to change. All participants will be notified in advance.
 
-## TBD
+## Saturday, October 5, 2013
+
+- 08:30-09:30:
+-- Registration & Welcome coffee (conference center lobby)
+
