@@ -1,0 +1,12 @@
+| {% slim head.slim %}
+
+body
+  | {% slim page-header.slim %}
+
+  div
+    .wrapper
+      section#page-content
+        .container-large
+          | {{ content }}
+
+  | {% slim footer.slim %}

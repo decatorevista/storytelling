@@ -1,0 +1,27 @@
+| {% slim head.slim %}
+
+body
+  | {% slim page-header.slim %}
+
+  div
+    .wrapper
+      section#page-content
+        .container
+          | {{ content }}
+        .sidebar
+          |
+            {% if page.sidebar == 'about' %}
+              {% slim sidebar-about.slim %}
+            {% endif %}
+
+            {% if page.sidebar == 'speakers' %}
+              {% slim sidebar-speakers.slim %}
+            {% endif %}
+
+            {% if page.sidebar == 'international' %}
+              {% slim sidebar-international.slim %}
+            {% endif %}
+
+            {% slim sidebar.slim %}
+
+  | {% slim footer.slim %}

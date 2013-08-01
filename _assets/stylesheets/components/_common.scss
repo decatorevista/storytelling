@@ -1,31 +1,37 @@
-nav#main-menu {
+nav {
   z-index: 1;
   position: fixed;
-  width: 100%;
   background: rgba($white, 0.95);
+  width: 100%;
+  border-bottom: 1px solid $cyan_lighted;
 
   ul {
-    @include clearfix;
-
-    margin: 0;
-    border-bottom: 1px solid $green_dark;
+    width: 800px;
+    margin: 0 auto;
+    padding-left: 0;
 
     li {
       display: inline;
       float: left;
-      margin-left: $gutter;
+      margin-left: $gutter * 2;
+      margin-bottom: 3px;
 
       a {
-        text-decoration: none;
+        display: block;
+        color: $green_dark;
+        font-weight: bold;
         line-height: $gutter * 3;
+        text-decoration: none;
       }
 
       &:hover, &.selected {
-        a {
-          color: $green_dark;
-        }
         margin-bottom: -3px;
-        border-bottom: 3px solid $green_dark;
+
+        a {
+          color: $cyan_dark;
+          text-decoration: none;
+          border-bottom: 3px solid $cyan_dark;
+        }
       }
     }
   }

@@ -21,6 +21,12 @@ header {
   padding-top: 110px;
   padding-bottom: $gutter * 2;
 
+  .page-branding {
+    @include span-columns(12);
+    background: url(asset_path('top.png')) no-repeat top left;
+    padding-top: 250px;
+  }
+
   .branding {
     @include span-columns(8);
     background: url(asset_path('brand-large.png')) no-repeat top left;
@@ -89,7 +95,18 @@ header {
       }
     }
   }
+}
 
+#page-content {
+  .container {
+    @include span-columns(7);
+    padding-left: $gutter * 2.5;
+  }
+
+  .sidebar {
+    padding-left: $gutter * 2.5;
+    @include span-columns(5);
+  }
 }
 
 #pre-footer {

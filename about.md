@@ -1,19 +1,8 @@
 ---
-layout: default
+layout: page
 title: About
+sidebar: about
 ---
-
-{% include header %}
-
-- When? Where?
-- Who is responsible?
-- Who is speaking?
-- What language will the conference be in?
-- How much does it cost? How do I register?
-- Tell me more about the workshops
-- What is narrative journalism?
-- I have a question not answered here. How do I reach you?
-
 
 # About the 2013 conference
 
@@ -38,7 +27,7 @@ The conference will take place **Saturday (October 5th) in the conference center
 
 ### Who is responsible?
 
-The conference is hosted by [Decât o Revistă](http://www.decatorevista.ro), a Romanian quarterly journal of ground-breaking non-fiction. It was made possible with support from [a host of partners and sponsors](../partners.html).
+The conference is hosted by [Decât o Revistă](http://www.decatorevista.ro), a Romanian quarterly journal of ground-breaking non-fiction. It was made possible with support from [a host of partners and sponsors]({{ site.base_url }}partners.html).
 
 ### Who is speaking?
 
@@ -48,7 +37,7 @@ We have five amazing speakers that will join us for the day; both veterans and i
 - Tom Junod
 - Mona Nicoară
 
-For full bios visit the [speakers page](../speakers.html).
+For full bios visit the [speakers page]({{ site.base_url }}speakers.html).
 
 ### What language will the conference be in?
 
@@ -56,11 +45,11 @@ All speeches and workshops will be in English.
 
 ### How much does it cost? How do I register?
 
-Visit the [Fees and Registration](../tickets.html) page for details.
+Visit the [Fees and Registration]({{ site.base_url }}tickets.html) page for details.
 
 ### Tell me more about the workshops
 
-For more on the workshops visit [the schedule page](../schedule.html). You can attend one workshop. When you register, you can pick your first and second choices; we will try to distribute participants according to their wishes. We will notify you in advance about the workshop you’ll be attending. Also, on the day of the conference, we will display the lists of workshop participants.
+For more on the workshops visit [the schedule page]({{ site.base_url }}schedule.html). You can attend one workshop. When you register, you can pick your first and second choices; we will try to distribute participants according to their wishes. We will notify you in advance about the workshop you’ll be attending. Also, on the day of the conference, we will display the lists of workshop participants.
 
 ### What is narrative journalism?
 
@@ -69,6 +58,3 @@ Narrative journalism – also referred to as literary journalism, creative nonfi
 ### I have a question not answered here. How do I reach you?
 
 Direct all inquiries to [storytelling@decatorevista.ro](mailto:storytelling@decatorevista.ro).
-
-
-{% include footer %}
