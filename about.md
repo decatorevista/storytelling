@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About the 2013 conference
 sidebar: about
 ---
-
-# About the 2013 conference
 
 Humans are narrative creatures. We explain our lives, businesses, countries, values, and choices through stories. In this age of information overload, well-told, well-written, and well-produced stories are essential to keep our communities alive, and reflect our common humanity.
 
