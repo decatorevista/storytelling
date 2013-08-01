@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Welcome, international visitors
+title: "Welcome, international visitors"
 sidebar: international
 name: international
+published: true
 ---
 
 We want to help our international attendees with a few tips by making staying in Bucharest for a few days easier.
@@ -14,8 +15,9 @@ Bus:
 Taxi: The taxi must be ordered from inside the terminal, from a booth. 30 - 50 lei
 
 
-## Accommodation
-### Pullman
+### Accommodation
+
+#### Pullman
 
 Pullman Hotel has reduced price accomodation for conference attendees. Please fill out the form to benefit from this.
 
@@ -23,7 +25,7 @@ Formular pentru reducere de la Pullman pentru găzduirea în hotel. (link)
 
 (David, vom avea un formular care va trebui host-uit tot la noi pe site.)
 
-### Hostels
+**Hostels**
 
 - **[Kretan Hostels](http://www.bucharest-hostel.ro/)** – close to city center, at Universitate metro station. You can take the metro to Aviatorilor and then take a bus to Piata Presei, to the conference venue. The price for a single room with private bathroom is 20 euros per night. You will have to book this by phone.
 
