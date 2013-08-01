@@ -74,44 +74,20 @@ Order a taxi by phone:
 - Meridian - +4021.9444; +4021.9888; +4021.9484;
 - Cobalcescu - +4021.9451
 
+### Currency
 
-### Bus
-The PoS Conference is in Piața Presei, which is reacheable with the 331, 335, 131 or 330 bus, which depart from various points around the city.
+Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”). 
 
-(link) you have to take the subway to Aviatorilor metro station and then take the bus 331, 335, 131 or 330 to Piaţa Presei.
+### Bucharest City: What to visit
 
-### Taxi
-Bucharest´s taxis are fairly cheap: the fare for one km is 31 eurocents.
+**City Center:** The Old Town is the main historic area of Bucharest. Here you'll find small cobblestone streets with many places to eat and drink.
+**Parks:** Cișmigiu Gardens and Herăstrau Park are the most popular parks of Bucharest. 
+**Museums:** 
 
-*App*:
-**Star Taxi** for [Android](https://play.google.com/store/apps/details?id=ro.startaxi.android.client) and [iOS](http://itunes.apple.com/ro/app/star-taxi/id564195177?mt=8&uo=4)
-
-*Call:*
-
-- Speed Taxi: 021.9477; 021.9488; 021.9469; 021.9422;
-- Meridian: 021.9444; 021.9888; 021.9484;
-- Cobălcescu: 021.9451
-*Area code is +40 (21)*
-
-
-## Currency
-
-Romania's currency is RON. You can exchange foreign currencies at banks and authorized exchange offices (they are called: „Casă de schimb” or „Birou de schimb valutar”). You can find an *exchange* currency point in International Airport Henri Coandă as well.
-
-[See exchange rates for foreign currencies](http://www.bnr.ro/Exchange-rates-1224.aspx).
-
-## Bucharest City: What to visit
-
-### City Center
-
-The Old Town is the main historic area of Bucharest. You`ll find here small streets with many places where you can eat, drink and have fun.
-
-### Parks
-
-Cismigiu Gardens and Herăstrau Park are the most popular parks of Bucharest.
-
-### Museums
-[The National Museum of Art of Romania](http://www.mnar.arts.ro/Home), [Museum of the Romanian Peasant](http://www.muzeultaranuluiroman.ro/home.html), [Village Museum](http://www.muzeul-satului.ro/) are some of the museums where you can see and find more about the history of Romanians and their traditions. [National Museum of Natural History](http://www.antipa.ro/en)
+- [The National Museum of Art of Romania](http://www.mnar.arts.ro/Home) 
+- [Museum of the Romanian Peasant](http://www.muzeultaranuluiroman.ro/home.html)
+- [Village Museum](http://www.muzeul-satului.ro/)
+- [National Museum of Natural History](http://www.antipa.ro/en)
 
 ## Safety
 Bucharest is considered a safe city in Europe, but as in most capitals in the world you are advised to take certain safety precautions. The emergency telephone number for the Police is **112** (toll free).
