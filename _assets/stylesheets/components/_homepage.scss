@@ -118,6 +118,31 @@ header {
     p {
       margin-top: 0;
     }
+
+    .speakers & {
+
+      h3 {
+        margin-top: $gutter * 3;
+
+        &:first-child {
+          margin-top: 0;
+        }
+      }
+
+      img {
+        float: right;
+        border-radius: 1000px;
+        margin-top: -$gutter * 2;
+        margin-left: $gutter;
+        width: 200px;
+      }
+
+      blockquote {
+        margin: 0;
+        margin-bottom: $gutter;
+        border-bottom: 1px dashed $cyan_lighted;
+      }
+    }
   }
 
   .sidebar {
@@ -137,6 +162,21 @@ header {
       border-bottom: 0;
     }
 
+    .meet-our-speakers {
+      @include buton();
+      @include omega();
+
+      width: 100%;
+      display: block;
+      margin-top: $gutter;
+      text-align: center;
+      text-decoration: none;
+
+      .speakers & {
+        display: none;
+      }
+    }
+
     ul {
       margin: 0;
       padding-left: 0;
@@ -144,9 +184,13 @@ header {
       li {
         list-style: none;
         border-bottom: 1px dashed $cyan_light;
+        padding: $gutter / 2 0;
+
+        &:first-child {
+          padding-top: 0;
+        }
 
         a {
-          line-height: $gutter * 2;
           text-decoration: none;
 
           &:hover {
@@ -268,7 +312,14 @@ section#notes {
     @include span-columns(12);
 
     text-align: center;
-    border-top: 1px solid $cyan_lighted;
+
+    p {
+      margin-top: 0;
+    }
+
+    p:first-child {
+      margin-bottom: 0;
+    }
   }
 
 }
