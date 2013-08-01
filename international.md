@@ -85,7 +85,7 @@ Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currenci
 
 **City Center:** The Old Town is the main historic area of Bucharest. Here you'll find small cobblestone streets with many places to eat and drink.
 
-**Parks:** Cișmigiu Gardens and Herăstrau Park are the most popular parks of Bucharest. 
+**Parks:** [Cișmigiu Gardens](http://goo.gl/maps/omtss) and [Herăstrau Park](http://goo.gl/maps/pb6Xe) are the most popular parks of Bucharest. 
 
 **Museums:** 
 
