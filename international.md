@@ -19,7 +19,7 @@ You have two options to get from the airport to the city
 
 ### Accommodation
 
-#### [Pullman Hotel](http://www.accorhotels.com/gb/hotel-1714-pullman-bucharest-world-trade-center/index.shtml) (conference venue)
+**[Pullman Hotel](http://www.accorhotels.com/gb/hotel-1714-pullman-bucharest-world-trade-center/index.shtml) (conference venue)**
 
 Pullman Hotel has reduced price accomodation (starting at 50 euros) for conference attendees. Please fill download the form below by September 1st, and email or fax it to Pullman (full instructions are in the form). 
 
@@ -47,16 +47,11 @@ _aici trebuie pus formular Pullman link_
     
     - **Price:** A single room with private bathroom is 20 euros per night. 
 
+### Lunch
 
+Lunch will be provided at the conference.
 
-
-
-
-## Lunch
-
-### Lunch will be provided at the conference.
-
-## Dinner
+### Dinner
 - **Caru' cu Bere** – located in the City Center, this restaurant is a famous Romanian venue. Go here for medium-priced Romanian dishes.
 
 - **Rest. X **
@@ -64,11 +59,21 @@ _aici trebuie pus formular Pullman link_
 - **Rest. Y **
 
 
-## Local Transport
+### Local Transport
 
-### Metro
+**Subway**
 
-Bucharest has a well developed subway system. [Here´s a map](http://www.metrorex.ro/map_p777-2) you can use to see how to reach different places around town.
+Bucharest has a well developed subway system. For planning a trip with public transportation, use this [website](http://transporturban.ro/en/bucuresti/). 
+
+**Taxi**
+
+The standard rate for a taxi in Bucharest is 32 eurocents per kilometer. Tips are encouraged. You can order a taxi via the Star Taxi app ([Android](https://play.google.com/store/apps/details?id=ro.startaxi.android.client) or [iPhone][http://itunes.apple.com/ro/app/star-taxi/id564195177?mt=8&uo=4), which selects from various certified taxi companies.
+
+Order a taxi by phone: 
+- Speed Taxi - +4021.9477; +4021.9488; +4021.9469; +4021.9422;
+- Meridian - +4021.9444; +4021.9888; +4021.9484;
+- Cobalcescu - +4021.9451
+
 
 ### Bus
 The PoS Conference is in Piața Presei, which is reacheable with the 331, 335, 131 or 330 bus, which depart from various points around the city.
