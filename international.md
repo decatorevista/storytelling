@@ -6,30 +6,34 @@ name: international
 published: true
 ---
 
-We want to help our international attendees with a few tips by making staying in Bucharest for a few days easier.
+Here is a guide to make your stay in Bucharest a little easier. 
 
-Getting in: Bucharest International Airport
-The airport in
-Ways to get to the city:
-Bus:
-Taxi: The taxi must be ordered from inside the terminal, from a booth. 30 - 50 lei
+### Getting in: Bucharest International Airport
+
+You have two options to get from the airport to the city
+
+**Bus:** Bus 783 will take you into the city. You will need to purchase a bus card (1.59 euros) and a trip (80 eurocents). 
+
+**Taxi:** The taxi must be ordered from inside the terminal, from a booth. The average price is 7 - 12 euros to the city. 
 
 
 ### Accommodation
 
-#### Pullman
+#### Pullman Hotel (conference venue)
 
-Pullman Hotel has reduced price accomodation for conference attendees. Please fill out the form to benefit from this.
+Pullman Hotel has reduced price accomodation (starting at 50 euros) for conference attendees. Please fill download the form below by September 1st, and email or fax it to Pullman (full instructions are in the form). 
 
-Formular pentru reducere de la Pullman pentru găzduirea în hotel. (link)
-
-(David, vom avea un formular care va trebui host-uit tot la noi pe site.)
+[Download Pullman reservation form]
 
 **Hostels**
 
+- **[Antique Hostel](http://www.antiquehostel.ro/)** 
+
+-- Location: Closest in this list to the conference venue, with a park and museum nearby. The conference venue is reacheable by taking the subway from Piața Victoriei to Aviatorilor station, then taking the 335, 331, 131 or 330 buses to Piața Presei.  
+
 - **[Kretan Hostels](http://www.bucharest-hostel.ro/)** – close to city center, at Universitate metro station. You can take the metro to Aviatorilor and then take a bus to Piata Presei, to the conference venue. The price for a single room with private bathroom is 20 euros per night. You will have to book this by phone.
 
-- **[Antique Hostel](http://www.antiquehostel.ro/)** is located near Piata Victoriei. A twin/double standard room, with private bathroom, for one person is 25 euros.
+
 
 - **[Umbrella Hostel](http://www.booking.com/hotel/ro/umbrella-hostel.en.html?aid=311984%3Blabel%3Dumbrella-hostel-z6D3gV8TJqNXIdKRpeHrWgS20159354833%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Bws%3D&gclid=CJTG8eD64LYCFU5e3godomIAoQ)** is located near Piata Romana from which you can easily take the bus 131 or 331, straight to the conference venue. A double room, with private bathroom, for one person is 34 euros.
 
