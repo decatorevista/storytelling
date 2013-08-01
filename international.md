@@ -8,7 +8,7 @@ published: true
 
 Here is a guide to make your stay in Bucharest a little easier. 
 
-## Getting in: Bucharest International Airport
+### Getting in: Bucharest International Airport
 
 You have two options to get from the airport to the city:
 
@@ -17,7 +17,7 @@ You have two options to get from the airport to the city:
 **Taxi:** The taxi must be ordered from inside the terminal, from a booth. The average cost for a trip to the city center is 7 - 12 euros. 
 
 
-## Accommodation
+### Accommodation
 
 **[Pullman Hotel](http://www.accorhotels.com/gb/hotel-1714-pullman-bucharest-world-trade-center/index.shtml) (conference venue)**
 
@@ -47,11 +47,11 @@ _aici trebuie pus formular Pullman link_
     
     - **Price:** A single room with private bathroom is 20 euros per night. 
 
-## Lunch
+### Lunch
 
 Lunch will be provided at the conference.
 
-## Dinner
+### Dinner
 - **Caru' cu Bere** – located in the City Center, this restaurant is a famous Romanian venue. Go here for medium-priced Romanian dishes.
 
 - **Rest. X **
@@ -59,7 +59,7 @@ Lunch will be provided at the conference.
 - **Rest. Y **
 
 
-## Local Transport
+### Local Transport
 
 **Subway**
 
@@ -77,11 +77,11 @@ Order a taxi by phone:
 
 - Cobalcescu: +4021.9451
 
-## Currency
+### Currency
 
 Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”). 
 
-## Bucharest City: What to visit
+### Bucharest City: What to visit
 
 **City Center:** The Old Town is the main historic area of Bucharest. Here you'll find small cobblestone streets with many places to eat and drink.
 
@@ -94,5 +94,5 @@ Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currenci
 - [Village Museum](http://www.muzeul-satului.ro/)
 - [National Museum of Natural History](http://www.antipa.ro/en)
 
-## Safety
+### Safety
 Bucharest is considered a safe city in Europe, but as in most capitals in the world you are advised to take certain safety precautions. The emergency telephone number for the Police is **112** (toll free).
