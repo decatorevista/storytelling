@@ -109,6 +109,22 @@ header {
   }
 }
 
+#page-title {
+  .container {
+    @include span-columns(12);
+
+    padding: 0 $gutter * 2.5;
+
+    h2 {
+      font-weight: 200;
+      color: $cyan_dark;
+      margin: 0;
+      padding: 0;
+      line-height: $gutter * 3 + 4;
+    }
+  }
+}
+
 #pre-footer {
   .newsletter {
     @include span-columns(12);
