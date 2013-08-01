@@ -89,7 +89,7 @@ Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currenci
 
 **Museums:** 
 
-- [The National Museum of Art of Romania](http://www.mnar.arts.ro/Home) 
+- [The National Museum of Contemporary Art](http://www.mnac.ro/) 
 - [Museum of the Romanian Peasant](http://www.muzeultaranuluiroman.ro/home.html)
 - [Village Museum](http://www.muzeul-satului.ro/)
 - [National Museum of Natural History](http://www.antipa.ro/en)
