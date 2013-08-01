@@ -11,5 +11,11 @@ build:
           echo -p "gem list: $(gem list)"
 
     - script:
-        name: Runs jekyll and deploys static website to FTP
+        name: Runs Jekyll
+        code: bundle exec jekyll build
+
+deploy:
+  steps:
+    - script:
+        name: Deploys static website to FTP
         code: bundle exec mina deploy -v
