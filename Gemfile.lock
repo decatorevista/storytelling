@@ -46,7 +46,7 @@ GEM
     mina (0.3.0)
       open4
       rake
-    mina-ftp (0.0.1)
+    mina-ftp (0.0.2)
       ftp_sync
       mina
     multi_json (1.7.7)
