@@ -14,7 +14,7 @@ Tom Junod has been a writer-at-large for Esquire for 16 years. He got his start 
 
 His work has been widely anthologized, and *The Falling Man*, his 2003 story about a photograph taken on 9/11, has been named one of the seven top stories in Esquire's 80 year history. Born and raised in Long Island, he lives in Marietta, with his wife and his daughter and his dog.
 
-> He can be found on Twitter, [@TomJunod](http://www.twitter.com/tomjunod).
+> Follow his tweets at [@TomJunod](http://www.twitter.com/tomjunod).
 
 ### Jacqui Banaszynski
 
@@ -40,7 +40,7 @@ He began his career as a boxing writer for the National Post in Toronto. This is
 
 His work has also appeared in the Best American Magazine Writing, Best American Sports Writing, and Best American Political Writing anthologies. He is coming back to Bucharest this year to rediscover the passion he found at the 2012 edition.
 
-> Follow him on Twitter: [@MySecondEmpire](http://www.twitter.com/mysecondempire).
+> Follow his tweets at [@MySecondEmpire](http://www.twitter.com/mysecondempire).
 
 
 
@@ -56,7 +56,7 @@ Beginning with 2005, she directed and produced Our School, which premiered in th
 
 Mona Nicoară’s publications include articles in academic journals, human rights reports and analyses, as well as op-eds and essays in *The Guardian*, *Dilema Veche* and *Decât o Revistă*.
 
-> She tweets from [@monanicoara](http://www.twitter.com/monanicoara).
+> Follow her tweets at [@monanicoara](http://www.twitter.com/monanicoara).
 
 ### Jens Lekman 
 
@@ -65,4 +65,4 @@ _poza Jens_
 Jens Lekman, born and reared in Gothenburg, Sweden, is a songwriter, adventurer and retired bingo hall employee. Traveling our globe as a wide-open receptor of all it has to offer, Lekman repurposes for his own oeuvre the world's great, lost pop hooks of past and present. He breathes into them his droll senses of humor, romance and melody and gives them newfound buoyancy.
 Since his 2004 trifecta of EPs (*Maples Leaves, Rocky Dennis in Heaven, You Are the Light*) to his acclaimed 2007 full-length, *Night Falls Over Kortedala*, and 2012's touchingly personal *I Know What Love Isn't*, Lekman has made hopeless romantics of us all. In a musical language that has roots in the work of Arthur Russell, The Magnetic Fields, Calvin Johnson and Modern Lovers, Lekman's songs serve as a reminder to look closer at the world around us, to appreciate the beauty when it's both in and out of context; at its most heartbreaking, its most loving, and its most absurd.
 
-> Keep up with him on [Facebook](www.facebook.com/JensLekmanOfficial).
+> Follow him on [Facebook](www.facebook.com/JensLekmanOfficial).
