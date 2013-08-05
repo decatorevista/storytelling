@@ -159,7 +159,6 @@ header {
         font-size: em(14);
         width: $gutter * 4;
         text-align: right;
-        border-bottom: 3px solid $cyan_lighted;
         color: $cyan_lighted;
         font-weight: 200;
        
@@ -174,7 +173,9 @@ header {
       
       strong {
         color: $cyan_dark;
-        font-size: em(18)
+        font-size: em(24)
+        font-weight: 200;
+        border-bottom: 1px solid $cyan_lighted;
       }
       
       blockquote {
