@@ -191,15 +191,11 @@ header {
         border-bottom: 0;
       }
       
-      h5 {
+      .title {
         font-size: em(16);
         color: $green_dark;
         margin: 0;
         padding-left: $gutter * 3;
-       
-        &:first-child {
-          margin-top: 0;
-        }
       }
       
       .desc {
