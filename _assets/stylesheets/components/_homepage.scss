@@ -196,6 +196,7 @@ header {
         width: $gutter * 4.5;
         text-align: right;
         color: $green_dark;
+        margin: 0;
        
         &:first-child {
           margin-top: 0;
@@ -203,7 +204,7 @@ header {
       }
       
       .desc {
-        margin: -43px 0 0 110px;
+        margin: -21px 0 0 110px;
         font-size: em(14);
       }
       
