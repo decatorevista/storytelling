@@ -195,9 +195,7 @@ header {
         font-size: em(14);
         width: $gutter * 4;
         text-align: right;
-        color: $cyan_lighted;
-        font-weight: 200;
-        border-bottom: 1px solid $cyan_lighted;
+        color: $green_dark;
        
         &:first-child {
           margin-top: 0;
