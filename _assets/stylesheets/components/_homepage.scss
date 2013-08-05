@@ -124,12 +124,6 @@ header {
       margin-top: 0;
     }
     
-    blockquote {
-      margin: 0;
-      margin-bottom: $gutter;
-      border-bottom: 1px dashed $cyan_lighted;
-    }
-
     .speakers & {
 
       h2 {
@@ -158,7 +152,6 @@ header {
         border-bottom: 1px dashed $cyan_lighted;
       }
     }
-  }
 
     .schedule & {
 
@@ -171,6 +164,15 @@ header {
           margin-top: 0;
         }
       }
+      
+      blockquote {
+        margin: 0;
+        margin-bottom: $gutter;
+        border-bottom: 1px dashed $cyan_lighted;
+      }
+	}
+  }
+
 
 
   .sidebar {
