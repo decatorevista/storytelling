@@ -192,16 +192,16 @@ header {
       }
       
       .title {
-        font-size: em(14);
         color: $cyan_dark;
         margin: 0;
         float: left;
         font-weight: 200;
+        text-align: right;
+        width: $gutter * 3;
       }
       
       .desc {
         margin: 0 0 10px 80px;
-        font-size: em(14);
       }
       
       ul {
