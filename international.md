@@ -25,6 +25,8 @@ You have two options to get from the airport to the city:
 
 - **[Pullman Hotel](http://www.accorhotels.com/gb/hotel-1714-pullman-bucharest-world-trade-center/index.shtml)** *conference venue*
 
+** **
+
 Pullman Hotel has reduced price accomodation (starting at 50 euros per night) for conference attendees. Please [download the Pullman reservation form](#) by September 1st, and email or fax it to Pullman (full instructions are in the form).
 {: .desc}
 
@@ -33,13 +35,13 @@ Pullman Hotel has reduced price accomodation (starting at 50 euros per night) fo
 
 - **[Antique Hostel](http://www.booking.com/hotel/ro/antique-hostel.en-gb.html)** 
 
-**Location:**
+Location:
 {: .title}
 
 Closest in this list to the conference venue, at Piața Victoriei with a park and museum nearby. The conference venue is reacheable by taking the subway from Piața Victoriei to Aviatorilor station, then taking the 335, 331, 131 or 330 buses to Piața Presei.
 {: .desc}
 
-**Price:**
+Price:
 {: .title}
 
 A double standard room with a private bathroom is 25 euros per night.
