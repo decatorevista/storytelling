@@ -174,7 +174,8 @@ header {
       
       strong {
         color: $green_dark;
-        font-size: em(24);
+        font-size: em(18);
+        line-height: $gutter * 1.5;
       }
       
       blockquote {
