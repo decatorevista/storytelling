@@ -25,7 +25,7 @@ You have two options to get from the airport to the city:
 
 - **[Pullman Hotel](http://www.accorhotels.com/gb/hotel-1714-pullman-bucharest-world-trade-center/index.shtml)** *(conference venue)*
 
-Pullman Hotel has reduced price accomodation (starting at 50 euros per night) for conference attendees. Please [download the Pullman reservation form](#) by September 1st, and email or fax it to Pullman (full instructions are in the form).
+Pullman Hotel has reduced price accomodation (starting at *50 euros per night*) for conference attendees. Please [download the Pullman reservation form](#) by September 1st, and email or fax it to Pullman (full instructions are in the form).
 {: .desc}
 
 
@@ -42,7 +42,7 @@ Closest in this list to the conference venue, at Piața Victoriei with a park an
 Price
 {: .title}
 
-A double standard room with a private bathroom is 25 euros per night.
+A double standard room with a private bathroom is *25 euros per night*.
 {: .desc}
 
 - **[Umbrella Hostel](http://www.booking.com/hotel/ro/umbrella-hostel.en-gb.html)** 
@@ -56,7 +56,7 @@ Located near Piața Romana, this hostel is closer to the city center but further
 Price
 {: .title}
 
-A double room with a private bathroom is 34 euros per night.
+A double room with a private bathroom is *34 euros per night*.
 {: .desc}
 
 - **[Kretan Hostels](http://www.booking.com/hotel/ro/kretan-hostel.en-gb.html)** 
@@ -70,7 +70,7 @@ This hostel is in the city center, at University Square. You can reach the confe
 Price
 {: .title}
 
-A single room with private bathroom is 20 euros per night.
+A single room with private bathroom is *20 euros per night*.
 {: .desc}
 
 * * *
