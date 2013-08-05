@@ -196,10 +196,12 @@ header {
         color: $green_light;
         margin: 0;
         padding-left: $gutter;
+        float: left;
+        font-weight: 200;
       }
       
       .desc {
-        margin: -21px 0 10px 110px;
+        margin: 0 0 10px 110px;
         font-size: em(14);
       }
       
