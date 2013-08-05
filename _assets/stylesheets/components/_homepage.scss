@@ -157,12 +157,18 @@ header {
 
       h3 {
         font-size: 1.1em;
-        width: $gutter * 10;
+        width: $gutter * 5;
         text-align: right;
+        float: left;
 
         &:first-child {
           margin-top: 0;
         }
+      }
+      
+      .desc {
+      	float: right;
+        margin: -28px 0 0 120px;
       }
       
       blockquote {
