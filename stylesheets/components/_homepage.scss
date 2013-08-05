@@ -70,9 +70,19 @@ header {
       font-size: em(40);
     }
 
-    .jacqui, .chris, .tom, .mona {
-      @include span-columns(3);
+    .mona, .jens {
+      @include span-columns(4);
+    }
 
+    .mona {
+      @include shift(2);
+    }
+
+    .jacqui, .chris, .tom {
+      @include span-columns(4);
+    }
+
+    .jacqui, .chris, .tom, .mona, .jens {
       h3 {
         font-size: em(24);
         margin-bottom: 0;
@@ -89,7 +99,6 @@ header {
       }
     }
   }
-
 }
 
 #pre-footer {
@@ -179,10 +188,11 @@ header {
       p {
         @include span-columns(4);
         padding-top: $gutter;
+      }
 
-        &.middle {
-          border-top: 1px solid $cyan_lighted;
-        }
+      &.centered {
+        @include span-columns(4);
+        @include shift(4);
       }
     }
   }
