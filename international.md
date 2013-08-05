@@ -25,8 +25,6 @@ You have two options to get from the airport to the city:
 
 - **[Pullman Hotel](http://www.accorhotels.com/gb/hotel-1714-pullman-bucharest-world-trade-center/index.shtml)** *conference venue*
 
-** **
-
 Pullman Hotel has reduced price accomodation (starting at 50 euros per night) for conference attendees. Please [download the Pullman reservation form](#) by September 1st, and email or fax it to Pullman (full instructions are in the form).
 {: .desc}
 
@@ -35,13 +33,13 @@ Pullman Hotel has reduced price accomodation (starting at 50 euros per night) fo
 
 - **[Antique Hostel](http://www.booking.com/hotel/ro/antique-hostel.en-gb.html)** 
 
-Location:
+Location
 {: .title}
 
 Closest in this list to the conference venue, at Piața Victoriei with a park and museum nearby. The conference venue is reacheable by taking the subway from Piața Victoriei to Aviatorilor station, then taking the 335, 331, 131 or 330 buses to Piața Presei.
 {: .desc}
 
-Price:
+Price
 {: .title}
 
 A double standard room with a private bathroom is 25 euros per night.
@@ -49,13 +47,13 @@ A double standard room with a private bathroom is 25 euros per night.
 
 - **[Umbrella Hostel](http://www.booking.com/hotel/ro/umbrella-hostel.en-gb.html)** 
 
-**Location:**
+Location
 {: .title}
 
 Located near Piața Romana, this hostel is closer to the city center but further from the conference venue. However, you can take the 131 or 331 bus straight to the conference venue.
 {: .desc}
     
-**Price:**
+Price
 {: .title}
 
 A double room with a private bathroom is 34 euros per night.
@@ -63,13 +61,13 @@ A double room with a private bathroom is 34 euros per night.
 
 - **[Kretan Hostels](http://www.booking.com/hotel/ro/kretan-hostel.en-gb.html)** 
 	
-**Location:**
+Location
 {: .title}
 
 This hostel is in the city center, at University Square. You can reach the conference venue by taking the metro to Aviatorilor and then the 335, 331, 131 sau 330 bus to Piața Presei.
 {: .desc}
     
-**Price:**
+Price
 {: .title}
 
 A single room with private bathroom is 20 euros per night.
