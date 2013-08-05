@@ -17,6 +17,8 @@ You have two options to get from the airport to the city:
 **Taxi:** The taxi must be ordered from inside the terminal, from a booth. The average cost for a trip to the city center is 7--12 euros. 
 
 
+* * *
+
 ### Accommodation
 
 **Hotels**
@@ -24,8 +26,6 @@ You have two options to get from the airport to the city:
 - **[Pullman Hotel](http://www.accorhotels.com/gb/hotel-1714-pullman-bucharest-world-trade-center/index.shtml) (conference venue)**
 
 	- Pullman Hotel has reduced price accomodation (starting at 50 euros per night) for conference attendees. Please [download the Pullman reservation form](#) by September 1st, and email or fax it to Pullman (full instructions are in the form).
-
-* * *
 
 **Hostels**
 
@@ -54,6 +54,8 @@ You have two options to get from the airport to the city:
 Lunch will be provided at the conference.
 
 
+* * *
+
 ### Local Transport
 
 **Subway**
@@ -72,9 +74,15 @@ Order a taxi by phone:
 
 - Cobalcescu: +4021.9451
 
+
+* * *
+
 ### Currency
 
 Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”). 
+
+
+* * *
 
 ### Bucharest City: What to visit
 
@@ -88,6 +96,9 @@ Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currenci
 - [Museum of the Romanian Peasant](http://www.muzeultaranuluiroman.ro/home.html)
 - [Village Museum](http://www.muzeul-satului.ro/)
 - [National Museum of Natural History](http://www.antipa.ro/en)
+
+
+* * *
 
 ### Safety
 Bucharest is considered a safe city in Europe, but as in most capitals in the world you are advised to take certain safety precautions. The emergency telephone number for the Police is **112** (toll free).
