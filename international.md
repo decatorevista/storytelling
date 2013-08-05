@@ -82,11 +82,11 @@ Lunch will be provided at the conference.
 
 ### Local Transport
 
-#### Subway
+**Subway**
 
 Bucharest has a well developed subway system. For planning a trip with public transportation, use this [website](http://transporturban.ro/en/bucuresti/). 
 
-#### Taxi
+**Taxi**
 
 The standard rate for a taxi in Bucharest is 32 eurocents per kilometer. Tips are encouraged. You can order a taxi via the Star Taxi app ([Android](https://play.google.com/store/apps/details?id=ro.startaxi.android.client) or [iPhone](http://itunes.apple.com/ro/app/star-taxi/id564195177?mt=8&uo=4)), which selects from various certified taxi companies.
 
