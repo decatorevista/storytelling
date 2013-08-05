@@ -61,6 +61,9 @@ header {
     font-size: em(16);
     color: $green_dark;
   }
+  	.hosted-by {
+      padding-top: $gutter * 3;
+    }
 }
 
 #content {
