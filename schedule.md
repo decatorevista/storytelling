@@ -24,7 +24,6 @@ published: true
 
 ### 14:00-16:30
 **Breakout sessions** (New York Hall and break-out rooms Vienna, Beijing, Seoul)
-{: .desc}
 Over the course of the afternoon, speakers will host in-depth breakout sessions. Participants will only be able to attend one. When you register we’ll ask you for a back-up option if your first option is no longer available.
 {: .desc}
 
