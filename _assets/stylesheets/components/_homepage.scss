@@ -123,6 +123,12 @@ header {
     p {
       margin-top: 0;
     }
+    
+    blockquote {
+      margin: 0;
+      margin-bottom: $gutter;
+      border-bottom: 1px dashed $cyan_lighted;
+    }
 
     .speakers & {
 
@@ -153,6 +159,19 @@ header {
       }
     }
   }
+
+    .schedule & {
+
+      h3 {
+        font-size: 1.1em;
+        width: $gutter * 10;
+        text-align: right;
+
+        &:first-child {
+          margin-top: 0;
+        }
+      }
+
 
   .sidebar {
     @include span-columns(5);
