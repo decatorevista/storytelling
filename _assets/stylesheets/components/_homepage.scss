@@ -193,10 +193,9 @@ header {
       
       h4 {
         font-size: em(16);
-        width: $gutter * 4.5;
-        text-align: right;
         color: $green_dark;
         margin: 0;
+        padding-right: $gutter * 3;
        
         &:first-child {
           margin-top: 0;
