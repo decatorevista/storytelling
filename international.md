@@ -12,9 +12,9 @@ Here is a guide to make your stay in Bucharest a little easier.
 
 You have two options to get from the airport to the city:
 
-**Bus:** Bus 783 will take you into the city. You will need to purchase a bus card (1.59 euros) and a trip (80 eurocents). 
+**Bus:** Bus 783 will take you into the city. You will need to purchase a bus card (1.59 euros) and a trip (0.80 euros). 
 
-**Taxi:** The taxi must be ordered from inside the terminal, from a booth. The average cost for a trip to the city center is 7 - 12 euros. 
+**Taxi:** The taxi must be ordered from inside the terminal, from a booth. The average cost for a trip to the city center is 7--12 euros. 
 
 
 ### Accommodation
