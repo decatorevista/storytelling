@@ -172,6 +172,10 @@ header {
         margin: -28px 0 40px 100px;
       }
       
+      strong {
+        color: $cyan_dark;
+      }
+      
       blockquote {
         margin: 0;
         margin-bottom: $gutter;
