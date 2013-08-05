@@ -43,15 +43,27 @@ A double standard room with a private bathroom is 25 euros per night.
 
 - **[Umbrella Hostel](http://www.booking.com/hotel/ro/umbrella-hostel.en-gb.html)** 
 
-	- **Location:** Located near Piața Romana, this hostel is closer to the city center but further from the conference venue. However, you can take the 131 or 331 bus straight to the conference venue. 
+#### Location:
+
+Located near Piața Romana, this hostel is closer to the city center but further from the conference venue. However, you can take the 131 or 331 bus straight to the conference venue.
+{: .desc}
     
-    - **Price:** A double room with a private bathroom is 34 euros per night.  
+#### Price:
+
+A double room with a private bathroom is 34 euros per night.
+{: .desc}
 
 - **[Kretan Hostels](http://www.booking.com/hotel/ro/kretan-hostel.en-gb.html)** 
 	
-    - **Location:** This hostel is in the city center, at University Square. You can reach the conference venue by taking the metro to Aviatorilor and then the 335, 331, 131 sau 330 bus to Piața Presei. 
+#### Location:
+
+This hostel is in the city center, at University Square. You can reach the conference venue by taking the metro to Aviatorilor and then the 335, 331, 131 sau 330 bus to Piața Presei.
+{: .desc}
     
-    - **Price:** A single room with private bathroom is 20 euros per night.   
+#### Price:
+
+A single room with private bathroom is 20 euros per night.
+{: .desc}
 
 * * *
 
