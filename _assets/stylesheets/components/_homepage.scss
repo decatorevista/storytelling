@@ -195,7 +195,6 @@ header {
         font-size: em(14);
         color: $green_light;
         margin: 0;
-        padding-left: $gutter;
         float: left;
         font-weight: 200;
       }
@@ -210,7 +209,7 @@ header {
         margin: 20px 0 0 0;
         
         li {
-          margin-left: -20px;
+          margin-left: -40px;
         }
       }
 	}
