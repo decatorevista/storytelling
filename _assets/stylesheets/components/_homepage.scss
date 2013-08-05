@@ -23,7 +23,7 @@ header {
 
   .page-branding {
     @include span-columns(12);
-    background: url(asset_path('top.png')) no-repeat top left;
+    background: url('https://dl.dropboxusercontent.com/u/134995/PoS13/top.png') no-repeat top center;
     padding-top: 250px;
   }
 
