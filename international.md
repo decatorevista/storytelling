@@ -51,13 +51,6 @@ _aici trebuie pus formular Pullman link_
 
 Lunch will be provided at the conference.
 
-### Dinner
-- **Caru' cu Bere** – located in the City Center, this restaurant is a famous Romanian venue. Go here for medium-priced Romanian dishes.
-
-- **Rest. X **
-
-- **Rest. Y **
-
 
 ### Local Transport
 
