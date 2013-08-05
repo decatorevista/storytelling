@@ -94,10 +94,23 @@ The standard rate for a taxi in Bucharest is 32 eurocents per kilometer. Tips ar
 
 *Order a taxi by phone:*
 
-- Speed Taxi: +4021.9477; +4021.9488; +4021.9469; +4021.9422;
-- Meridian: +4021.9444; +4021.9888; +4021.9484;
-- Cobalcescu: +4021.9451
+Speed Taxi
+{: .title}
 
++4021.9477; +4021.9488; +4021.9469; +4021.9422;
+{: .desc}
+
+Meridian
+{: .title}
+
++4021.9444; +4021.9888; +4021.9484;
+{: .desc}
+
+Cobalcescu
+{: .title}
+
++4021.9451
+{: .desc}
 
 * * *
 
