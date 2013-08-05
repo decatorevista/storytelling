@@ -58,7 +58,7 @@ header {
     @include omega();
     @include pad($gutter * 4 0 0);
 
-    font-size: em(18);
+    font-size: em(16);
     color: $green_dark;
   }
 }
