@@ -160,6 +160,7 @@ header {
         width: $gutter * 5;
         text-align: right;
         padding-top: $gutter;
+        border-bottom: 1px dashed $cyan_lighted;
        
         &:first-child {
           margin-top: 0;
@@ -167,14 +168,13 @@ header {
       }
       
       .desc {
-      	float: right;
         margin: -28px 0 0 120px;
       }
       
       blockquote {
         margin: 0;
         margin-bottom: $gutter;
-        border-bottom: 1px dashed $cyan_lighted;
+
       }
 	}
   }
