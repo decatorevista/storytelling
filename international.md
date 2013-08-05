@@ -31,36 +31,36 @@ You have two options to get from the airport to the city:
 
 - **[Antique Hostel](http://www.booking.com/hotel/ro/antique-hostel.en-gb.html)** 
 
-#### Location:
+##### Location:
 
 Closest in this list to the conference venue, at Piața Victoriei with a park and museum nearby. The conference venue is reacheable by taking the subway from Piața Victoriei to Aviatorilor station, then taking the 335, 331, 131 or 330 buses to Piața Presei.
 {: .desc}
 
-#### Price:
+##### Price:
 
 A double standard room with a private bathroom is 25 euros per night.
 {: .desc}
 
 - **[Umbrella Hostel](http://www.booking.com/hotel/ro/umbrella-hostel.en-gb.html)** 
 
-#### Location:
+##### Location:
 
 Located near Piața Romana, this hostel is closer to the city center but further from the conference venue. However, you can take the 131 or 331 bus straight to the conference venue.
 {: .desc}
     
-#### Price:
+##### Price:
 
 A double room with a private bathroom is 34 euros per night.
 {: .desc}
 
 - **[Kretan Hostels](http://www.booking.com/hotel/ro/kretan-hostel.en-gb.html)** 
 	
-#### Location:
+##### Location:
 
 This hostel is in the city center, at University Square. You can reach the conference venue by taking the metro to Aviatorilor and then the 335, 331, 131 sau 330 bus to Piața Presei.
 {: .desc}
     
-#### Price:
+##### Price:
 
 A single room with private bathroom is 20 euros per night.
 {: .desc}
