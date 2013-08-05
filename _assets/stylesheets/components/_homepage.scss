@@ -193,11 +193,12 @@ header {
       
       .title {
         color: $green_dark;
-        margin: 0;
+        margin: 2px 0;
         float: left;
         font-weight: 200;
         text-align: right;
-        width: $gutter * 4.5;
+        width: $gutter * 3.5;
+        font-size: em(14);
       }
       
       .desc {
