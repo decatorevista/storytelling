@@ -185,6 +185,11 @@ header {
 	}
     
     .international & {
+    
+      hr {
+        border-top: 1px solid $cyan_lighted;
+        border-bottom: 0;
+      }
       
       ul {
         list-style: none;
