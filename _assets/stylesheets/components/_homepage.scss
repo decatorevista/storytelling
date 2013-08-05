@@ -161,6 +161,7 @@ header {
         text-align: right;
         color: $cyan_lighted;
         font-weight: 200;
+        border-bottom: 1px solid $cyan_lighted;
        
         &:first-child {
           margin-top: 0;
@@ -172,10 +173,8 @@ header {
       }
       
       strong {
-        color: $cyan_dark;
+        color: $green_dark;
         font-size: em(24);
-        font-weight: 200;
-        border-bottom: 1px solid $cyan_lighted;
       }
       
       blockquote {
