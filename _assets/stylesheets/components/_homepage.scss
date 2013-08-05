@@ -160,8 +160,9 @@ header {
         width: $gutter * 4;
         text-align: right;
         padding-bottom: $gutter;
-        border-top: 4px solid $cyan_lighted;
+        border-top: 3px solid $cyan_lighted;
         color: $cyan_lighted;
+        font-weight: 200;
        
         &:first-child {
           margin-top: 0;
