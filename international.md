@@ -66,12 +66,10 @@ Bucharest has a well developed subway system. For planning a trip with public tr
 
 The standard rate for a taxi in Bucharest is 32 eurocents per kilometer. Tips are encouraged. You can order a taxi via the Star Taxi app ([Android](https://play.google.com/store/apps/details?id=ro.startaxi.android.client) or [iPhone](http://itunes.apple.com/ro/app/star-taxi/id564195177?mt=8&uo=4)), which selects from various certified taxi companies.
 
-Order a taxi by phone: 
+*Order a taxi by phone:*
 
 - Speed Taxi: +4021.9477; +4021.9488; +4021.9469; +4021.9422;
-
 - Meridian: +4021.9444; +4021.9888; +4021.9484;
-
 - Cobalcescu: +4021.9451
 
 
