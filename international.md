@@ -31,9 +31,13 @@ You have two options to get from the airport to the city:
 
 - **[Antique Hostel](http://www.booking.com/hotel/ro/antique-hostel.en-gb.html)** 
 
-	- **Location:** Closest in this list to the conference venue, at Piața Victoriei with a park and museum nearby. The conference venue is reacheable by taking the subway from Piața Victoriei to Aviatorilor station, then taking the 335, 331, 131 or 330 buses to Piața Presei.
+#### Location:
 
-	- **Price:** A double standard room with a private bathroom is 25 euros per night.  
+Closest in this list to the conference venue, at Piața Victoriei with a park and museum nearby. The conference venue is reacheable by taking the subway from Piața Victoriei to Aviatorilor station, then taking the 335, 331, 131 or 330 buses to Piața Presei.
+
+#### Price:
+
+A double standard room with a private bathroom is 25 euros per night.  
 
 - **[Umbrella Hostel](http://www.booking.com/hotel/ro/umbrella-hostel.en-gb.html)** 
 
@@ -58,11 +62,11 @@ Lunch will be provided at the conference.
 
 ### Local Transport
 
-**Subway**
+#### Subway
 
 Bucharest has a well developed subway system. For planning a trip with public transportation, use this [website](http://transporturban.ro/en/bucuresti/). 
 
-**Taxi**
+#### Taxi
 
 The standard rate for a taxi in Bucharest is 32 eurocents per kilometer. Tips are encouraged. You can order a taxi via the Star Taxi app ([Android](https://play.google.com/store/apps/details?id=ro.startaxi.android.client) or [iPhone](http://itunes.apple.com/ro/app/star-taxi/id564195177?mt=8&uo=4)), which selects from various certified taxi companies.
 
