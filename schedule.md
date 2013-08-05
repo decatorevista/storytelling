@@ -50,5 +50,5 @@ Over the course of the afternoon, speakers will host in-depth breakout sessions.
 
 ### 18:30-19:30
 **Goodbye drinks**  
-*conference center lobby and terrace*
+*Conference center lobby and terrace*
 {: .desc}
