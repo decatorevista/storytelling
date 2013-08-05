@@ -30,13 +30,13 @@ Pullman Hotel has reduced price accomodation (starting at 50 euros per night) fo
 	- **Location:** Closest in this list to the conference venue, at Piața Victoriei with a park and museum nearby. The conference venue is reacheable by taking the subway from Piața Victoriei to Aviatorilor station, then taking the 335, 331, 131 or 330 buses to Piața Presei.
 
 	- **Price:** A double standard room with a private bathroom is 25 euros per night.  
-
+----
 - **[Umbrella Hostel](http://www.booking.com/hotel/ro/umbrella-hostel.en-gb.html)** 
 
 	- **Location:** Located near Piața Romana, this hostel is closer to the city center but further from the conference venue. However, you can take the 131 or 331 bus straight to the conference venue. 
     
     - **Price:** A double room with a private bathroom is 34 euros per night.  
-
+----
 - **[Kretan Hostels](http://www.booking.com/hotel/ro/kretan-hostel.en-gb.html)** 
 	
     - **Location:** This hostel is in the city center, at University Square. You can reach the conference venue by taking the metro to Aviatorilor and then the 335, 331, 131 sau 330 bus to Piața Presei. 
