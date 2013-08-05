@@ -21,11 +21,7 @@ You have two options to get from the airport to the city:
 
 **[Pullman Hotel](http://www.accorhotels.com/gb/hotel-1714-pullman-bucharest-world-trade-center/index.shtml) (conference venue)**
 
-Pullman Hotel has reduced price accomodation (starting at 50 euros per night) for conference attendees. Please download the form below by September 1st, and email or fax it to Pullman (full instructions are in the form). 
-
-[Download Pullman reservation form] 
-
-_aici trebuie pus formular Pullman link_
+Pullman Hotel has reduced price accomodation (starting at 50 euros per night) for conference attendees. Please [download the Pullman reservation form](#) by September 1st, and email or fax it to Pullman (full instructions are in the form).
 
 **Hostels**
 
