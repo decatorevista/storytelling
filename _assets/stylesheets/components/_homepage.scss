@@ -159,8 +159,8 @@ header {
         font-size: 1.1em;
         width: $gutter * 5;
         text-align: right;
-        float: left;
-
+        padding-top: $gutter;
+       
         &:first-child {
           margin-top: 0;
         }
