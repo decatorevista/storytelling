@@ -159,7 +159,6 @@ header {
         font-size: em(14);
         width: $gutter * 4;
         text-align: right;
-        padding-bottom: $gutter;
         border-top: 3px solid $cyan_lighted;
         color: $cyan_lighted;
         font-weight: 200;
@@ -170,7 +169,7 @@ header {
       }
       
       .desc {
-        margin: -28px 0 0 140px;
+        margin: -28px 0 40px 100px;
       }
       
       blockquote {
