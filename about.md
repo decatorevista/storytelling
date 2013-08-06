@@ -43,7 +43,7 @@ All speeches and workshops will be in English.
 
 ### How much does it cost? How do I register?
 
-Visit the [Fees and Registration]({{ site.base_url }}tickets.html) page for details.
+Visit the [Registration]({{ site.base_url }}tickets.html) page for details.
 
 ### Tell me more about the breakout sessions
 
