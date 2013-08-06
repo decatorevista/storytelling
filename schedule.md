@@ -37,6 +37,10 @@ _Pebbles In The Pond – Touching Hearts One Story At A Time:_ The success of st
 
 _Singing Stories:_ Jens Lekman is known for the narratives embedded in his songs, be they about relationships, or one’s place in the world. Many of his songs are stories drawn from real life, and Jens will talk about the creative process of putting them together, as well as sing a few to demonstrate.
 
+**Tom Junod**
+
+Tom Junod's workshop will be announced soon. 
+
 ### 12:30–14:00
 **Lunch Break**  
 *Conference center lobby and terrace*
