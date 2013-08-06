@@ -116,7 +116,7 @@ Cobalcescu
 
 ### Currency
 
-Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”). 
+Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”), and you can also get cash from one of the many ATMs in the city. 
 
 
 * * *
@@ -133,6 +133,7 @@ Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currenci
 - [Museum of the Romanian Peasant](http://www.muzeultaranuluiroman.ro/home.html)
 - [Village Museum](http://www.muzeul-satului.ro/)
 - [National Museum of Natural History](http://www.antipa.ro/en)
+- [The National Museum of Art](http://www.mnar.arts.ro/Home)
 
 
 * * *
