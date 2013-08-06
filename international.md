@@ -8,11 +8,18 @@ published: true
 
 Here is a guide to make your stay in Bucharest a little easier. 
 
+
+### Currency
+
+Romania's currency is RON. 1 EURO is approximately 4.4 RON (lei). You can get lei from one of the many ATMs in the city, or you can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”).
+
+* * *
+
 ### Getting in: Bucharest International Airport
 
 You have two options to get from the airport to the city:
 
-**Bus:** Bus 783 will take you into the city. You will need to purchase a bus card (1.59 euros) and a trip (0.80 euros). 
+**Bus:** Bus 783 will take you into the city. You will need to purchase a special bus card (the equivalent of 1.6 euros), and load it with two trips (0.80 euros). 
 
 **Taxi:** The taxi must be ordered from inside the terminal, from a booth. The average cost for a trip to the city center is 7--12 euros. 
 
@@ -111,12 +118,6 @@ Cobalcescu
 
 +4-021-**9451**
 {: .desc}
-
-* * *
-
-### Currency
-
-Romania's currency is RON. 1 EURO =  4.41 RON. You can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”), and you can also get cash from one of the many ATMs in the city. 
 
 
 * * *
