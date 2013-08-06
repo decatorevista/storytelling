@@ -9,6 +9,5 @@ set :ftp_password, ENV['FTP_PASSWORD']
 
 desc 'Deploys the current version to the server.'
 task :deploy do
-  invoke :'jekyll:build'
   invoke :'ftp:deploy'
 end
