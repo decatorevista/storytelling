@@ -34,6 +34,7 @@ We have a group of amazing speakers that will join us for the day; both veterans
 - Jacqui Banaszynski
 - Tom Junod
 - Mona Nicoară
+- Jens Lekman
 
 For full bios visit the [speakers page]({{ site.base_url }}speakers.html). For the program, take a look at the complete [schedule]({{ site.base_url }}schedule.html).
 
