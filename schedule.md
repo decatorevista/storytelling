@@ -39,7 +39,7 @@ _Singing Stories:_ Jens Lekman is known for the narratives embedded in his songs
 
 **Tom Junod**
 
-Tom Junod's workshop will be announced soon. 
+Tom Junod's keynote description will be announced soon. 
 
 ### 12:30–14:00
 **Lunch Break**  
