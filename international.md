@@ -141,4 +141,4 @@ Cobalcescu
 
 ### Safety
 Bucharest is considered a safe city in Europe, but as in most capitals in the world you are advised to take certain safety precautions. The emergency telephone number for the Police is **112** (toll free).
-We recommend that you look into having health insurance that is available in Romania in case of emergency. 
+We recommend that you look into having health insurance that is available in Romania in case of emergency.
