@@ -3,6 +3,10 @@ header, #content, footer {
 }
 
 body {
+  .hide {
+    display: none;
+  }
+
   .light {
     background: url(asset_path('bg-cyan.png')) no-repeat 100% -120px;
     background-attachment: fixed;
