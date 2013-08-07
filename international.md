@@ -118,9 +118,6 @@ Cobalcescu
 
 * * *
 
-[![Here's a map to](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)](http://goo.gl/maps/cgLqT)
-{: .map}
-
 ### Bucharest City: What to visit
 
 **City Center:** The Old Town is the main historic area of Bucharest. Here you'll find small cobblestone streets with many places to eat and drink.
@@ -128,6 +125,9 @@ Cobalcescu
 **Parks:** [Cișmigiu Gardens](http://goo.gl/maps/omtss) and [Herăstrău Park](http://goo.gl/maps/pb6Xe) are the most popular parks of Bucharest. 
 
 **Museums:** 
+
+[![Map of stuff](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)](http://goo.gl/maps/cgLqT)
+{: .map}
 
 - [The National Museum of Contemporary Art](http://www.mnac.ro/) 
 - [Museum of the Romanian Peasant](http://www.muzeultaranuluiroman.ro/home.html)
