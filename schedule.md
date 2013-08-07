@@ -21,9 +21,10 @@ All participants will be notified in advance.
 *New York Hall*
 {: .desc}
 
-	**Mona Nicoară** 
+*Mona Nicoară*
 
-	_The Boundaries of the Storyteller:_ A journalist, an activist, and an artist walk into the same story. I have no punchline, just a few strange insights that came out of the muted struggle between the three over the six years it took to make my documentary Our School. 
+_The Boundaries of the Storyteller:_ A journalist, an activist, and an artist walk into the same story. I have no punchline, just a few strange insights that came out of the muted struggle between the three over the six years it took to make my documentary Our School. 
+{: .desc}
 
 **Chris Jones**
 
