@@ -124,10 +124,10 @@ Cobălcescu
 
 **Parks:** [Cișmigiu Gardens](http://goo.gl/maps/omtss) and [Herăstrău Park](http://goo.gl/maps/pb6Xe) are the most popular parks of Bucharest. 
 
-**Museums:** 
-
-[![Map of stuff](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)](http://goo.gl/maps/cgLqT)
+[![View these links on Google Maps](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)](http://goo.gl/maps/cgLqT)
 {: .map}
+
+**Museums:** 
 
 - [The National Museum of Contemporary Art](http://www.mnac.ro/) 
 - [Museum of the Romanian Peasant](http://www.muzeultaranuluiroman.ro/home.html)
