@@ -124,7 +124,7 @@ Cobălcescu
 
 **Parks:** [Cișmigiu Gardens](http://goo.gl/maps/omtss) and [Herăstrău Park](http://goo.gl/maps/pb6Xe) are the most popular parks of Bucharest. 
 
-[![View these links on Google Maps](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)](http://goo.gl/maps/cgLqT)
+[![View these venues on Google Maps](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)](http://goo.gl/maps/cgLqT)
 {: .map}
 
 **Museums:** 
