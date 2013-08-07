@@ -24,7 +24,7 @@ The conference will take place **Saturday (October 5th) in the conference center
 
 ### Who is responsible?
 
-The conference is hosted by [Decât o Revistă](http://www.decatorevista.ro), a Romanian quarterly journal of groundbreaking nonfiction. It was made possible with support from [a host of partners and sponsors]({{ site.base_url }}partners.html).
+The conference is hosted by [Decât o Revistă](http://www.decatorevista.ro), a Romanian quarterly journal of groundbreaking nonfiction. It was made possible with support from [a host of sponsors and supporters]({{ site.base_url }}partners.html).
 
 ### Who is speaking?
 
