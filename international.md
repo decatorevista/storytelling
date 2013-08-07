@@ -118,10 +118,10 @@ Cobalcescu
 
 * * *
 
-### Bucharest City: What to visit
-
-![Here's a map to](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)
+[![Here's a map to](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)](http://goo.gl/maps/cgLqT)
 {: .map}
+
+### Bucharest City: What to visit
 
 **City Center:** The Old Town is the main historic area of Bucharest. Here you'll find small cobblestone streets with many places to eat and drink.
 
