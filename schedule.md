@@ -42,9 +42,10 @@ Jens Lekman
 _Singing Stories:_ Jens Lekman is known for the narratives embedded in his songs, be they about relationships, or one’s place in the world. Many of his songs are stories drawn from real life, and Jens will talk about the creative process of putting them together, as well as sing a few to demonstrate.
 {: .desc}
 
-**Tom Junod**
+Tom Junod
 
 Tom Junod's keynote description will be announced soon. 
+{: .desc}
 
 ### 12:30–14:00
 **Lunch Break**  
@@ -57,18 +58,23 @@ Tom Junod's keynote description will be announced soon.
 Over the course of the afternoon, speakers will host in-depth breakout sessions. Participants will only be able to attend one. When you register we’ll ask you for a back-up option if your first option is no longer available.
 {: .desc}
 
-**Tom Junod and Chris Jones panel**
+Tom Junod and Chris Jones panel
+{: .desc}
 
 _Your Voice And How To Use It:_ Tom and Chris believe in the same things, but they express them with radically different voices. In this panel discussion, they’ll talk about style, inspiration, influence, and why they write the way they write. (Hint: Chris has tried to write like Tom. He can’t.)
+{: .desc}
 
-**Jacqui Banaszynski**
+Jacqui Banaszynski
+{: .desc}
 
 _The Art Of The Interview – A Creative Dance Of Intimacy And Ethics:_ Many stories fail before a writer ever sits down at the keyboard. They suffer from the question not asked, the detail not gathered, the nuance not noticed. We’ll explore interviewing as much more than the usual Q&A, but rather as a vibrant dynamic that turns subjects into storytellers, and articles into stories. We’ll place special attention on the profound relationship that is built when interviewing people about sensitive matters – and the care that must be taken in being fair to the subjects but true to the story.
+{: .desc}
 
-**Mona Nicoară**
+Mona Nicoară
+{: .desc}
 
 _Putting The Right Things In The Right Order:_ Editing a story, whether on film, on the radio, in pictures or on paper is the hardest job of them all. We will look at this complicated trial-and-error process of finding the story, re-discovering intentions, and honoring audiences through concrete examples drawn from documentary filmmaking, and we will engage in a practical exercise trying to answer that age-old question: "How to begin?"
-
+{: .desc}
 
 
 ### 15:15–15:45
