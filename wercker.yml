@@ -9,6 +9,8 @@ build:
           echo "ruby version $(ruby --version) running"
           echo "from location $(which ruby)"
           echo -p "gem list: $(gem list)"
+          echo 'Environment variables:'
+          env
 
     - script:
         name: Runs Jekyll && deploys static website to FTP
