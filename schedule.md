@@ -58,7 +58,7 @@ Tom Junod's keynote description will be announced soon.
 {: .desc}
 
 ### 14:00--15:15
-**Breakout session**  
+**Breakout sessions**  
 *New York Hall and break-out rooms Vienna, Beijing, Seoul*  
 Over the course of the afternoon, speakers will host in-depth breakout sessions. Participants will only be able to attend one. When you register we’ll ask you for a back-up option if your first option is no longer available.
 {: .desc}
@@ -88,7 +88,7 @@ Editing a story, whether on film, on the radio, in pictures or on paper is the h
 {: .desc}
 
 ### 15:45--17:00
-**Breakout session (continued)**  
+**Breakout sessions (continued)**  
 *New York Hall and break-out rooms Vienna, Beijing, Seoul*  
 Over the course of the afternoon, speakers will host in-depth breakout sessions. Participants will only be able to attend one. When you register we’ll ask you for a back-up option if your first option is no longer available.
 {: .desc}
