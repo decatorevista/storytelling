@@ -21,18 +21,20 @@ All participants will be notified in advance.
 *New York Hall*
 {: .desc}
 
-*Mona Nicoară*
+Mona Nicoară
 
 _The Boundaries of the Storyteller:_ A journalist, an activist, and an artist walk into the same story. I have no punchline, just a few strange insights that came out of the muted struggle between the three over the six years it took to make my documentary Our School. 
 {: .desc}
 
-**Chris Jones**
+Chris Jones
 
 _Getting The Goods:_ Good reporting is essential to telling true stories, but there is more to reporting than the simple gathering of facts. Nobody reads phone books, and they’re filled with facts. Good stories offer something more; they reveal something larger about the world. Careful reporting will help you tell that kind of story, but most important, it should also reveal why your story matters—why it should count.
+{: .desc}
 
-**Jacqui Banaszynski**
+Jacqui Banaszynski
 
 _Pebbles In The Pond – Touching Hearts One Story At A Time:_ The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never been discounted.
+{: .desc}
 
 **Jens Lekman**
 
