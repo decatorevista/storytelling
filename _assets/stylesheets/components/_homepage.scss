@@ -138,7 +138,7 @@ header {
     p {
       margin-top: 0;
     }
-    
+
     .speakers & {
 
       h2 {
@@ -177,39 +177,39 @@ header {
         color: $cyan_lighted;
         font-weight: 200;
         border-bottom: 1px solid $cyan_lighted;
-       
+
         &:first-child {
           margin-top: 0;
         }
       }
-      
+
       .desc {
         margin: -28px 0 40px 100px;
       }
-      
+
       strong {
         color: $green_dark;
         font-size: em(18);
         line-height: $gutter;
       }
-      
+
       blockquote {
         margin: 0;
         margin-bottom: $gutter;
       }
 	}
-    
+
     .international & {
-    
+
       hr {
         border-top: 1px solid $cyan_lighted;
         border-bottom: 0;
       }
-      
+
       .map {
       	float:right;
       }
-      
+
       .title {
         color: $green_dark;
         margin: 2px 0 0 0;
@@ -219,23 +219,21 @@ header {
         width: $gutter * 3.5;
         font-size: em(14);
       }
-      
+
       .desc {
         margin: 0 0 10px 80px;
       }
-      
+
       ul {
         list-style: none;
         margin: 20px 0 0 0;
-        
+
         li {
           margin-left: -40px;
         }
       }
-	}
+    }
   }
-
-
 
   .sidebar {
     @include span-columns(5);
