@@ -32,13 +32,15 @@ _Getting The Goods:_ Good reporting is essential to telling true stories, but th
 {: .desc}
 
 Jacqui Banaszynski
+{: .desc}
 
 _Pebbles In The Pond – Touching Hearts One Story At A Time:_ The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never been discounted.
 {: .desc}
 
-**Jens Lekman**
+Jens Lekman
 
 _Singing Stories:_ Jens Lekman is known for the narratives embedded in his songs, be they about relationships, or one’s place in the world. Many of his songs are stories drawn from real life, and Jens will talk about the creative process of putting them together, as well as sing a few to demonstrate.
+{: .desc}
 
 **Tom Junod**
 
