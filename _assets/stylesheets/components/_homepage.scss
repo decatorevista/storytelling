@@ -79,8 +79,19 @@ header {
       font-size: em(40);
     }
 
-    .jacqui, .chris, .tom, .mona {
-      @include span-columns(3);
+    .mona, .jens {
+      @include span-columns(4);
+    }
+
+    .mona {
+      @include shift(2);
+    }
+
+    .jacqui, .chris, .tom {
+      @include span-columns(4);
+    }
+
+    .jacqui, .chris, .tom, .mona, .jens {
 
       h3 {
         font-size: em(24);
