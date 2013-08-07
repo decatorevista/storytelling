@@ -19,7 +19,7 @@ Romania's currency is RON (lei). 1 EURO is approximately 4.4 RON (lei). You can 
 
 You have two options to get from the airport to the city:
 
-**Bus:** Bus 783 will take you into the city. You will need to purchase a special bus card (the equivalent of 1.6 euros), and load it with two trips (0.80 euros). 
+**Bus:** Bus 783 will take you into the city. You will need to purchase a bus ticket, which costs approximately 1.6 euros, and is the equivalent of two trips. 
 
 **Taxi:** The taxi must be ordered from inside the terminal, from a booth. The average cost for a trip to the city center is 7-12 euros. 
 
