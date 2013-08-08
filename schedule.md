@@ -15,19 +15,13 @@ All participants will be notified in advance.
 Conference center lobby
 {: .loc}
 
-**Registration & Welcome coffee**  
-{: .desc}
-
-
+#### Registration & Welcome coffee
 
 ### 10:00--12:30
 New York Hall
 {: .loc}
 
-**Welcome and opening keynote speeches**  
-{: .desc}
-
-
+#### Welcome and opening keynote speeches
 
 **Mona Nicoară: The Boundaries of the Storyteller**
 {: .desc}
@@ -47,7 +41,6 @@ Good reporting is essential to telling true stories, but there is more to report
 The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never be discounted.
 {: .desc}
 
-
 **Jens Lekman: Singing Stories**
 {: .desc}
 
@@ -64,17 +57,14 @@ Tom Junod's keynote description will be announced soon.
 Conference center lobby and terrace
 {: .loc}
 
-**Lunch Break**  
-{: .desc}
-
+#### Lunch Break
 
 
 ### 14:00--15:15
 New York Hall and break-out rooms Vienna, Beijing, Seoul
 {: .loc}
 
-**Breakout sessions**  
-{: .desc}
+#### Breakout sessions
 *Over the course of the afternoon, speakers will host in-depth breakout sessions. Participants will only be able to attend one. When you register we’ll ask you for a back-up option if your first option is no longer available.*
 {: .info}
 
@@ -102,13 +92,14 @@ Conference center lobby and terrace
 {: .loc}
 
 #### Coffee break
-{: .desc}
 
 ### 15:45--17:00
 New York Hall and break-out rooms Vienna, Beijing, Seoul
 {: .loc}
 
-**Breakout sessions** (continued)
+#### Breakout sessions 
+
+(continued)
 {: .desc}
 
 **Tom Junod and Chris Jones panel: Your voice and how to use it** (continued)
@@ -126,12 +117,10 @@ New York Hall and break-out rooms Vienna, Beijing, Seoul
 New York Hall
 {: .loc}
 
-**Keynote speeches**  
-{: .desc}
+#### Keynote speeches
 
 ### 18:30--19:30
 Conference center lobby and terrace
 {: .loc}
 
-**Goodbye drinks**  
-{: .desc}
+#### Goodbye drinks
