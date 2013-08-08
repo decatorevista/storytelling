@@ -40,7 +40,7 @@ For full bios visit the [speakers page]({{ site.base_url }}speakers.html). For t
 
 ### What language will the conference be in?
 
-All speeches and workshops will be in English.
+All keynote speeches and breakout sessions will be in English.
 
 ### How much does it cost? How do I register?
 
