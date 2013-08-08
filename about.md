@@ -48,7 +48,9 @@ Visit the [registration]({{ site.base_url }}registration.html) page for details.
 
 ### Tell me more about the breakout sessions
 
-For more on the breakout sessions visit [the schedule page]({{ site.base_url }}schedule.html). You can attend one workshop. When you register, you can pick your first and second choice. Although seasts in all of them are limited, we will try to distribute participants according to their wishes. We will notify you in advance about the session you’ll be attending. 
+For more on the breakout sessions visit [the schedule page]({{ site.base_url }}schedule.html). Each speaker will host an in-depth breakout session. Select your first choice and a back-up. As seats for the breakout sessions are limited, they will be distributed according to the purchasing order. We will notify you in advance about the session you’ll be attending.
+
+
 
 ### What is narrative journalism?
 
