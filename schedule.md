@@ -12,7 +12,8 @@ All participants will be notified in advance.
 ## Saturday, October 5, 2013
 
 ### 09:00--10:00
-*Conference center lobby*
+Conference center lobby
+{: .loc}
 
 **Registration & Welcome coffee**  
 {: .desc}
@@ -20,7 +21,8 @@ All participants will be notified in advance.
 
 
 ### 10:00--12:30
-*New York Hall*
+New York Hall
+{: .loc}
 
 **Welcome and opening keynote speeches**  
 {: .desc}
@@ -94,13 +96,15 @@ Editing a story, whether on film, on the radio, in pictures or on paper is the h
 
 
 ### 15:15--15:45
-*Conference center lobby and terrace*
+Conference center lobby and terrace
+{: .loc}
 
 **Coffee break**  
 {: .desc}
 
 ### 15:45--17:00
-*New York Hall and break-out rooms Vienna, Beijing, Seoul*
+New York Hall and break-out rooms Vienna, Beijing, Seoul
+{: .loc}
 
 **Breakout sessions (continued)**  
 {: .desc}
@@ -117,13 +121,15 @@ Editing a story, whether on film, on the radio, in pictures or on paper is the h
 
 
 ### 17:15--18:30
-*New York Hall*
+New York Hall
+{: .loc}
 
 **Keynote speeches**  
 {: .desc}
 
 ### 18:30--19:30
-*Conference center lobby and terrace*
+Conference center lobby and terrace
+{: .loc}
 
 **Goodbye drinks**  
 {: .desc}
