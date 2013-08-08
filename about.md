@@ -44,7 +44,7 @@ All keynote speeches and breakout sessions will be in English.
 
 ### How much does it cost? How do I register?
 
-Visit the [Registration]({{ site.base_url }}tickets.html) page for details.
+Visit the [registration]({{ site.base_url }}registration.html) page for details.
 
 ### Tell me more about the breakout sessions
 
