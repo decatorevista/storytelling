@@ -194,7 +194,7 @@ header {
       .desc {
         margin: -28px 0 40px 150px;
         
-        .semi {
+        &.semi {
           color: $cyan_dark;
         }
       }  
