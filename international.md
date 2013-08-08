@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Welcome, international visitors"
+title: "Welcome, international participants"
 sidebar: international
 name: international
 published: true
