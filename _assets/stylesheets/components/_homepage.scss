@@ -193,12 +193,13 @@ header {
 
       .desc {
         margin: -28px 0 40px 150px;
-        
-        .info {
-          font-size: em(14)
-        }
+      }  
+     
+      .info {
+        margin: -28px 0 40px 150px;
+        font-size: em(14)
       }
-
+      
       strong {
         color: $green_dark;
         font-size: em(18);
