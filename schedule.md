@@ -61,7 +61,8 @@ Tom Junod's keynote description will be announced soon.
 {: .desc}
 
 ### 12:30--14:00
-*Conference center lobby and terrace*
+Conference center lobby and terrace
+{: .loc}
 
 **Lunch Break**  
 {: .desc}
@@ -69,7 +70,8 @@ Tom Junod's keynote description will be announced soon.
 
 
 ### 14:00--15:15
-*New York Hall and break-out rooms Vienna, Beijing, Seoul*  
+New York Hall and break-out rooms Vienna, Beijing, Seoul
+{: .loc}
 
 **Breakout sessions**  
 {: .desc}
