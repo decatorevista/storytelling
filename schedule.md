@@ -90,8 +90,14 @@ Editing a story, whether on film, on the radio, in pictures or on paper is the h
 ### 15:45--17:00
 **Breakout sessions (continued)**  
 *New York Hall and break-out rooms Vienna, Beijing, Seoul*  
-Over the course of the afternoon, speakers will host in-depth breakout sessions. Participants will only be able to attend one. When you register we’ll ask you for a back-up option if your first option is no longer available.
+**Tom Junod and Chris Jones panel: Your voice and how to use it (continued)**
 {: .desc}
+**Jacqui Banaszynski: The Art Of The Interview – A Creative Dance of Intimacy and Ethics**
+{: .desc}
+**Mona Nicoară: Putting The Right Things In The Right Order**
+{: .desc}
+
+
 
 ### 17:15--18:30
 **Keynote speeches**  
