@@ -185,14 +185,14 @@ header {
         color: $cyan_dark;
         font-size: em(18);
         line-height: $gutter;
-        margin: -28px 0 40px 150px;
+        margin: -28px 0 40px 130px;
         display: block;
         border-bottom: 1px dotted $cyan_lighted;
         padding-bottom: 8px;
       }
      
 	  .loc {
-        width: $gutter * 7.5;
+        width: $gutter * 6.5;
         float: left;
         padding: 5px 40px 0 0;
         border-top: 1px dotted $cyan_lighted;
@@ -206,7 +206,7 @@ header {
       }  
      
       .info {
-        margin: -35px 0 50px 150px;
+        margin: -35px 0 50px 130px;
         font-size: em(14);
         line-height: 18px;
       }
