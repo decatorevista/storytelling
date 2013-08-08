@@ -171,7 +171,7 @@ header {
     .schedule & {
 
       h3 {
-        width: $gutter * 6;
+        width: $gutter * 6.5;
         text-align: right;
         font-size: em(14);
         color: $cyan_lighted;
@@ -183,10 +183,10 @@ header {
       }
 
 	  .loc {
-        width: $gutter * 6;
+        width: $gutter * 6.5;
         float: left;
-        padding-top: 8px;
-        border-top: 1px solid $cyan_lighted;
+        padding-top: 5px;
+        border-top: 1px dashed $cyan_lighted;
         font-size: em(12);
         text-align: right;
         font-weight: 200;
