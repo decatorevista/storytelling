@@ -101,8 +101,8 @@ Editing a story, whether on film, on the radio, in pictures or on paper is the h
 Conference center lobby and terrace
 {: .loc}
 
-**Coffee break**  
-{: .desc .semi}
+#### Coffee break
+{: .desc}
 
 ### 15:45--17:00
 New York Hall and break-out rooms Vienna, Beijing, Seoul
