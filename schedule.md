@@ -108,7 +108,7 @@ Conference center lobby and terrace
 New York Hall and break-out rooms Vienna, Beijing, Seoul
 {: .loc}
 
-**Breakout sessions (continued)**  
+**Breakout sessions** (continued)
 {: .desc}
 
 **Tom Junod and Chris Jones panel: Your voice and how to use it** (continued)
