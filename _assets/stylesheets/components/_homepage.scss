@@ -28,7 +28,7 @@ header {
   .page-branding {
     @include span-columns(12);
     background: url('https://dl.dropboxusercontent.com/u/134995/PoS13/top.png') no-repeat top center;
-    padding-top: $gutter * 11;
+    padding-top: $gutter * 10;
   }
 
   .branding {
