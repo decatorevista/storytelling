@@ -184,16 +184,19 @@ header {
       }
 
 	  .loc {
-        font-size: em(14);
+        font-size: em(12);
         width: $gutter * 4;
         text-align: right;
-        color: $cyan_lighted;
         font-weight: 200;
-        border-bottom: 1px solid $cyan_lighted;
+        line-height: 15px;
       }
 
       .desc {
         margin: -28px 0 40px 100px;
+        
+        .info {
+          font-size: em(14)
+        }
       }
 
       strong {
