@@ -184,8 +184,10 @@ header {
       }
 
 	  .loc {
-        font-size: em(12);
         width: $gutter * 4;
+        float: left;
+        padding-top: $gutter;
+        font-size: em(12);
         text-align: right;
         font-weight: 200;
         line-height: 15px;
