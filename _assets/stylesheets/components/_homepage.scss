@@ -171,12 +171,11 @@ header {
     .schedule & {
 
       h3 {
-        font-size: em(14);
-        width: $gutter * 4;
+        width: $gutter * 6;
         text-align: right;
+        font-size: em(14);
         color: $cyan_lighted;
         font-weight: 200;
-        border-bottom: 1px solid $cyan_lighted;
 
         &:first-child {
           margin-top: 0;
@@ -184,9 +183,10 @@ header {
       }
 
 	  .loc {
-        width: $gutter * 4;
+        width: $gutter * 6;
         float: left;
         padding-top: 8px;
+        border-top: 1px solid $cyan_lighted;
         font-size: em(12);
         text-align: right;
         font-weight: 200;
@@ -194,7 +194,7 @@ header {
       }
 
       .desc {
-        margin: -28px 0 40px 100px;
+        margin: -28px 0 40px 150px;
         
         .info {
           font-size: em(14)
