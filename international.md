@@ -80,6 +80,9 @@ Price
 A single room with private bathroom is *20 euros per night*.
 {: .desc}
 
+* Prices listed above are informative -- please check each accommodation when you make travel arrangements. 
+
+
 * * *
 
 ### Lunch
