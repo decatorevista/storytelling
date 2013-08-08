@@ -36,14 +36,14 @@ Good reporting is essential to telling true stories, but there is more to report
 **Jacqui Banaszynski: Pebbles in the Pond – Touching Hearts One Story At A Time**
 {: .desc}
 
-The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never been discounted.
+The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never be discounted.
 {: .desc}
 
 
 **Jens Lekman: Singing Stories**
 {: .desc}
 
-Jens Lekman is known for the narratives embedded in his songs, be they about relationships, or one’s place in the world. Many of his songs are stories drawn from real life, and Jens will talk about the creative process of putting them together, as well as sing a few to demonstrate.
+Jens Lekman is known for the narratives embedded in his songs, be they about relationships, or one’s place in the world. Many of his songs are stories drawn from real life, and Jens will talk about the creative process of putting them together, and sing a few to illustrate.
 {: .desc}
 
 **Tom Junod**
