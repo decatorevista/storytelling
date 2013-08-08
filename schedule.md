@@ -75,7 +75,7 @@ New York Hall and break-out rooms Vienna, Beijing, Seoul
 
 **Breakout sessions**  
 {: .desc}
-Over the course of the afternoon, speakers will host in-depth breakout sessions. Participants will only be able to attend one. When you register we’ll ask you for a back-up option if your first option is no longer available.
+*Over the course of the afternoon, speakers will host in-depth breakout sessions. Participants will only be able to attend one. When you register we’ll ask you for a back-up option if your first option is no longer available.*
 {: .info}
 
 **Tom Junod and Chris Jones panel: Your voice and how to use it**
