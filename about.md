@@ -54,7 +54,7 @@ For more on the breakout sessions visit [the schedule page]({{ site.base_url }}s
 
 ### What is narrative journalism?
 
-Narrative journalism – also referred to as literary journalism, creative nonfiction or narrative nonfiction – is a genre that brings literary devices into the journalistic work, without comprising the integrity of facts. The best of nonfiction storytelling is, as writer Walt Harrington said, “news you can feel.” It is scenic, it has characters, dialogue, and it aims to create an emotional experience for the public. Read lengthier explanations of what narrative is at [these](http://www.niemanstoryboard.org/1997/03/28/a-writers-essay-seeking-the-extraordinary-in-the-ordinary-2/) [three](http://www.niemanstoryboard.org/1995/01/01/breakable-rules-for-literary-journalists/) [links](http://www.creativenonfiction.org/thejournal/articles/issue06/06editor.htm).
+Narrative journalism – also referred to as literary journalism, creative nonfiction or narrative nonfiction – is a genre that brings literary devices into the journalistic work, without comprising the integrity of facts. The best of nonfiction storytelling is, as writer Walt Harrington said, “news you can feel.” It is scenic, it has characters, dialogue, and it aims to create an emotional experience for the public. Read lengthier explanations of what narrative is at [these](http://www.niemanstoryboard.org/1997/03/28/a-writers-essay-seeking-the-extraordinary-in-the-ordinary-2/) [three](http://www.niemanstoryboard.org/1995/01/01/breakable-rules-for-literary-journalists/) [links](https://www.creativenonfiction.org/what-is-creative-nonfiction).
 
 ### I have a question not answered here. How do I reach you?
 
