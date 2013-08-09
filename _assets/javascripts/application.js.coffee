@@ -1,3 +1,4 @@
+#= require ./headroom
 #= require_self
 
 ((w, $) ->
@@ -41,7 +42,13 @@
 
         false
 
+    headroom_on: (selector) ->
+      target = document.querySelector(selector)
+      headroom = new Headroom(target)
+      headroom.init();
+
     run: ->
+      @headroom_on( '[data-headroom]' )
       @parallax_on( 'body .light' )
       @parallax_on( 'body .highlight' )
       @mailchimp_on( '#last-subscribe' )
