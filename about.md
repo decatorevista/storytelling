@@ -44,7 +44,7 @@ All keynote speeches and breakout sessions will be in English.
 
 ### How much does it cost? How do I register?
 
-Visit the [registration](http://dor.kloudstores.com/product/conference-registration-full) page for details. 
+Visit the [registration](http://shop.decatorevista.ro/product/conference-registration-full) page for details. 
 
 ### Tell me more about the breakout sessions
 
