@@ -19,6 +19,14 @@ body {
   .lighted {
     background: $cyan_light;
   }
+  
+  .top {
+  	display: scroll;
+    position: fixed;
+  	margin-bottom: 5px;
+  	margin-right: 5px;
+  	float: right;
+  }
 }
 
 header {
