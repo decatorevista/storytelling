@@ -1,4 +1,5 @@
 #= require ./headroom
+#= require ./jquery.arbitrary-anchor
 #= require_self
 
 ((w, $) ->
