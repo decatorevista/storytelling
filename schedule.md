@@ -35,10 +35,10 @@ A journalist, an activist, and an artist walk into the same story. I have no pun
 Good reporting is essential to telling true stories, but there is more to reporting than the simple gathering of facts. Nobody reads phone books, and they’re filled with facts. Good stories offer something more; they reveal something larger about the world. Careful reporting will help you tell that kind of story, but most important, it should also reveal why your story matters—why it should count.
 {: .desc}
 
-**Jacqui Banaszynski: Pebbles in the Pond – Touching Hearts One Story At A Time**
+**Tom Junod**
 {: .desc}
 
-The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never be discounted.
+Tom Junod's keynote description will be announced soon. 
 {: .desc}
 
 **Jens Lekman: Singing Stories**
@@ -47,11 +47,13 @@ The success of stories is often measured in impact – how many clicks they rece
 Jens Lekman is known for the narratives embedded in his songs, be they about relationships, or one’s place in the world. Many of his songs are stories drawn from real life, and Jens will talk about the creative process of putting them together, and sing a few to illustrate.
 {: .desc}
 
-**Tom Junod**
+**Jacqui Banaszynski: Pebbles in the Pond – Touching Hearts One Story At A Time**
 {: .desc}
 
-Tom Junod's keynote description will be announced soon. 
+The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never be discounted.
 {: .desc}
+
+
 
 ### 12:30--14:00
 Conference center lobby and terrace
