@@ -65,4 +65,4 @@ Mona Nicoară’s publications include articles in academic journals, human righ
 Jens Lekman, born and reared in Gothenburg, Sweden, is a songwriter, adventurer and retired bingo hall employee. Traveling our globe as a wide-open receptor of all it has to offer, Lekman repurposes for his own oeuvre the world's great, lost pop hooks of past and present. He breathes into them his droll senses of humor, romance and melody and gives them newfound buoyancy.
 Since his 2004 trifecta of EPs (*Maples Leaves, Rocky Dennis in Heaven, You Are the Light*) to his acclaimed 2007 full-length, *Night Falls Over Kortedala*, and 2012's touchingly personal *I Know What Love Isn't*, Lekman has made hopeless romantics of us all. In a musical language that has roots in the work of Arthur Russell, The Magnetic Fields, Calvin Johnson and Modern Lovers, Lekman's songs serve as a reminder to look closer at the world around us, to appreciate the beauty when it's both in and out of context; at its most heartbreaking, its most loving, and its most absurd.
 
-> Follow him on [Facebook](www.facebook.com/JensLekmanOfficial).
+> Follow him on [Facebook](http://www.facebook.com/JensLekmanOfficial).
