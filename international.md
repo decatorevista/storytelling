@@ -125,7 +125,7 @@ Cobălcescu
 
 **City Center:** The Old Town is the main historic area of Bucharest. Here you'll find small cobblestone streets with many places to eat and drink.
 
-**Parks:** [Cișmigiu Gardens](http://goo.gl/maps/omtss) and [Herăstrău Park](http://goo.gl/maps/pb6Xe) are the most popular parks of Bucharest. 
+**Parks:** [Cișmigiu Gardens](http://goo.gl/maps/omtss){:target="_blank"} and [Herăstrău Park](http://goo.gl/maps/pb6Xe){:target="_blank"} are the most popular parks of Bucharest. 
 
 [![View these venues on Google Maps](https://dl.dropboxusercontent.com/u/134995/PoS13/map.png)](http://goo.gl/maps/cgLqT){:target="_blank"}
 {: .map}
