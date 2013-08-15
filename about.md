@@ -20,7 +20,7 @@ Whether you are a reporter, an editor, a communicator, or just a lover of storie
 
 ### When? Where?
 
-The conference will take place **Saturday (October 5th) in the conference center of Pullman Hotel (World Trade Center), located at 10 Montreal Square, Bucharest** ([View map in a new window](https://www.google.ro/maps?q=Pia%C5%A3a+Montreal,+Bucure%C8%99ti,+Bucure%C5%9Fti&ie=UTF8&hnear=Pia%C8%9Ba+Montreal,+Sector+1,+Bucure%C8%99ti,+Bucure%C5%9Fti&t=m&z=16){:target="_blank"}. 
+The conference will take place **Saturday (October 5th) in the conference center of Pullman Hotel (World Trade Center), located at 10 Montreal Square, Bucharest** ([View map in a new window](https://www.google.ro/maps?q=Pia%C5%A3a+Montreal,+Bucure%C8%99ti,+Bucure%C5%9Fti&ie=UTF8&hnear=Pia%C8%9Ba+Montreal,+Sector+1,+Bucure%C8%99ti,+Bucure%C5%9Fti&t=m&z=16){:target="_blank"}). 
 
 ### Who is responsible?
 
