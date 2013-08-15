@@ -11,7 +11,7 @@ Here is a guide to make your stay in Bucharest a little easier.
 
 ### Currency
 
-Romania's currency is ROL/ lei. 1 EURO is approximately 4.4 lei. You can get lei from one of the many ATMs in the city or the airport, or you can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”).
+Romania's currency is RON/ lei. 1 EURO is approximately 4.4 lei. You can get lei from one of the many ATMs in the city or the airport, or you can exchange foreign currencies at banks and authorized exchange offices (they are called: „casa de schimb” or „birou de schimb valutar”).
 
 * * *
 
@@ -66,7 +66,7 @@ Price
 A double room with a private bathroom is *34 euros per night*.
 {: .desc}
 
-- **[Kretan Hostels](http://www.booking.com/hotel/ro/kretan-hostel.en-gb.html)** 
+- **[Kretan Hostel](http://www.booking.com/hotel/ro/kretan-hostel.en-gb.html)** 
 	
 Location
 {: .title}
