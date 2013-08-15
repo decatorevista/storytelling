@@ -52,7 +52,7 @@ Documentary film director, producer and writer, Mona Nicoară was born in Commun
 
 After the 1989 Revolution she began mixing creative work with human rights activism for groups like Amnesty International and Human Rights Watch, and continued these parallel tracks after moving to New York at Columbia University in 1995. She started working in film in 1997 as an Associate Producer for *Children Underground*, which received the Special Jury Prize at the 2001 Sundance Film Festival and was nominated for an Academy Award for Best Feature Documentary.
 
-Beginning with 2005, she directed and produced Our School, which premiered in the US at the 2011 Tribeca Film Festival, went on to over 60 festivals worldwide, was awarded the Grand Jury Prize for Best US Feature at AFI SilverDocs, and was nominated for Best Eastern European Documentary at the Silver Eye Awards and for Best Romanian Documentary at the Gopo Awards.
+Beginning with 2005, she directed and produced *Our School*, which premiered in the US at the 2011 Tribeca Film Festival, went on to over 60 festivals worldwide, was awarded the Grand Jury Prize for Best US Feature at AFI SilverDocs, and was nominated for Best Eastern European Documentary at the Silver Eye Awards and for Best Romanian Documentary at the Gopo Awards.
 
 Mona Nicoară’s publications include articles in academic journals, human rights reports and analyses, as well as op-eds and essays in *The Guardian*, *Dilema Veche* and *Decât o Revistă*.
 
