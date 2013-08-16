@@ -35,10 +35,10 @@ A journalist, an activist, and an artist walk into the same story. I have no pun
 Good reporting is essential to telling true stories, but there is more to reporting than the simple gathering of facts. Nobody reads phone books, and they’re filled with facts. Good stories offer something more; they reveal something larger about the world. Careful reporting will help you tell that kind of story, but most important, it should also reveal why your story matters—why it should count.
 {: .desc}
 
-**Tom Junod**
+**Tom Junod: Is It Worth It?**
 {: .desc}
 
-Tom Junod's keynote description will be announced soon. 
+It is hard to write a great longform story. It requires a lot of time, a lot of reporting, a lot of thinking, a lot of immersion into a subject, and, generally, a lot of drafts. And yet longform journalism is not investigative journalism; it doesn't expose wrongdoing or, for the most part, even fulfill the classic journalistic mission of afflicting the comfortable and comforting the afflicted. And yet, even as journalism itself is under siege in the digital age, longform journalism continues to draw an audience, and has inspired a whole new generation of practitioners. So what makes it so attractive? What makes it important? Most importantly, what makes it worth doing?
 {: .desc}
 
 **Jens Lekman: Singing Stories**
