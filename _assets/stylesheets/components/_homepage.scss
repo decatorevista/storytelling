@@ -19,7 +19,7 @@ body {
   .lighted {
     background: $cyan_light;
   }
-  
+
   .top {
   	display: scroll;
     position: fixed;
@@ -72,9 +72,9 @@ header {
     font-size: em(16);
     color: $green_dark;
   }
-  	.hosted-by {
-      padding-top: $gutter * 3;
-    }
+  .hosted-by {
+    padding-top: $gutter * 3;
+  }
 }
 
 #content {
@@ -83,26 +83,15 @@ header {
 
   .speakers {
     @include span-columns(12);
-    @include pad($gutter 0 $gutter * 3);
+    @include pad($gutter 0 $gutter * 2);
 
     h2 {
       font-weight: 200;
       font-size: em(40);
     }
 
-    .mona, .jens {
+    .jacqui, .chris, .tom, .mona, .jens, .cynthia {
       @include span-columns(4);
-    }
-
-    .mona {
-      @include shift(2);
-    }
-
-    .jacqui, .chris, .tom {
-      @include span-columns(4);
-    }
-
-    .jacqui, .chris, .tom, .mona, .jens {
 
       h3 {
         font-size: em(24);
@@ -117,6 +106,7 @@ header {
         margin-top: 0;
         color: $cyan_light;
         line-height: em(20);
+        padding: 0 $gutter;
       }
     }
   }
@@ -145,7 +135,7 @@ header {
     p {
       margin-top: 0;
     }
-    
+
     .speakers & {
 
       h2 {
@@ -187,7 +177,7 @@ header {
           margin-top: 0;
         }
       }
-      
+
       h4 {
         color: $cyan_dark;
         font-size: em(18);
@@ -197,7 +187,7 @@ header {
         border-bottom: 1px dotted $cyan_lighted;
         padding-bottom: 8px;
       }
-     
+
 	  .loc {
         width: $gutter * 6.5;
         float: left;
@@ -210,14 +200,14 @@ header {
 
       .desc {
         margin: -28px 0 40px 130px;
-      }  
-     
+      }
+
       .info {
         margin: -35px 0 50px 130px;
         font-size: em(14);
         line-height: 18px;
       }
-      
+
       strong {
         color: $green_dark;
         font-size: em(18);
@@ -231,10 +221,8 @@ header {
         margin: 0;
         margin-bottom: $gutter;
       }
-	}
+  }
 
-	
-    
     .international & {
 
       hr {
@@ -243,7 +231,7 @@ header {
       }
 
       .map {
-      	float:right;
+        float:right;
       }
 
       .title {

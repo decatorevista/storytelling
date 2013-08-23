@@ -66,3 +66,15 @@ Jens Lekman, born and reared in Gothenburg, Sweden, is a songwriter, adventurer 
 Since his 2004 trifecta of EPs (*Maples Leaves, Rocky Dennis in Heaven, You Are the Light*) to his acclaimed 2007 full-length, *Night Falls Over Kortedala*, and 2012's touchingly personal *I Know What Love Isn't*, Lekman has made hopeless romantics of us all. In a musical language that has roots in the work of Arthur Russell, The Magnetic Fields, Calvin Johnson and Modern Lovers, Lekman's songs serve as a reminder to look closer at the world around us, to appreciate the beauty when it's both in and out of context; at its most heartbreaking, its most loving, and its most absurd.
 
 > Follow him on [Facebook](http://www.facebook.com/JensLekmanOfficial){:target="_blank"}.
+
+### Cynthia Gorney
+
+![Cynthia Gorney]({% asset_path speakers/page/cynthia.jpg %})
+
+Cynthia Gorney is a contributing writer for National Geographic and a contributor for The New Yorker, The New York Times Magazine, Harpers and Sports Illustrated; her work has been featured recently in the anthologies Best American Sports Writing, Best American Science Writing, and Best American Non-Required Reading.
+
+After spending 15 years in journalism as a newspaper feature writer and foreign correspondent for the Washington Post, she now teaches reporting and writing at the Graduate School of Journalism at the University of California at Berkeley. Her book, *Articles of Faith: a Frontline History of the Abortion Wars*, was a finalist for the Los Angeles Times Book prize.
+
+She is fluent in Spanish, has forgotten (*merde!*) much of her once-fluent French, and this fall will be enrolled in a college class in Arabic.
+
+> Follow her tweets at [@reporteracg](http://www.twitter.com/reporteracg){:target="_blank"}.
