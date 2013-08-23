@@ -41,6 +41,12 @@ Good reporting is essential to telling true stories, but there is more to report
 It is hard to write a great longform story. It requires a lot of time, a lot of reporting, a lot of thinking, a lot of immersion into a subject, and, generally, a lot of drafts. And yet longform journalism is not investigative journalism; it doesn't expose wrongdoing or, for the most part, even fulfill the classic journalistic mission of afflicting the comfortable and comforting the afflicted. And yet, even as journalism itself is under siege in the digital age, longform journalism continues to draw an audience, and has inspired a whole new generation of practitioners. So what makes it so attractive? What makes it important? Most importantly, what makes it worth doing?
 {: .desc}
 
+**Cynthia Gorney**
+{: .desc}
+
+Cynthia Gorney's keynote will be announced shortly.  
+{: .desc}
+
 **Jens Lekman: Singing Stories**
 {: .desc}
 
