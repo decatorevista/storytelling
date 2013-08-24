@@ -22,6 +22,10 @@ body class='{{ page.name }}'
             {% if page.sidebar == 'about' %}
               {% slim sidebar-about.slim %}
             {% endif %}
+            
+            {% if page.sidebar == 'schedule' %}
+              {% slim sidebar-schedule.slim %}
+            {% endif %}
 
             {% if page.sidebar == 'speakers' %}
               {% slim sidebar-speakers.slim %}
