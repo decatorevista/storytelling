@@ -41,10 +41,8 @@ Good reporting is essential to telling true stories, but there is more to report
 It is hard to write a great longform story. It requires a lot of time, a lot of reporting, a lot of thinking, a lot of immersion into a subject, and, generally, a lot of drafts. And yet longform journalism is not investigative journalism; it doesn't expose wrongdoing or, for the most part, even fulfill the classic journalistic mission of afflicting the comfortable and comforting the afflicted. And yet, even as journalism itself is under siege in the digital age, longform journalism continues to draw an audience, and has inspired a whole new generation of practitioners. So what makes it so attractive? What makes it important? Most importantly, what makes it worth doing?
 {: .desc}
 
-**Cynthia Gorney**
-{: .desc}
-
-Cynthia Gorney's keynote will be announced shortly.  
+**Cynthia Gorney: Finding Stories Within the Mess**
+Sometimes a journalist's job seems utterly self-contradictory: writing clear, compelling narrative that conveys how very complicated things really are. If you're assigned some topic as vast and multi-faceted as "child marriage" or "Cuba today," how do you find your way to a story that tries to do justice to its complexity? We'll use both these actual examples, from recent National Geographic stories, to explore the process--from the first immersive learning to the decisions about how to report and when to zoom in.  
 {: .desc}
 
 **Jens Lekman: Singing Stories**
@@ -94,6 +92,11 @@ Many stories fail before a writer ever sits down at the keyboard. They suffer fr
 Editing a story, whether on film, on the radio, in pictures or on paper is the hardest job of them all. We will look at this complicated trial-and-error process of finding the story, re-discovering intentions, and honoring audiences through concrete examples drawn from documentary filmmaking, and we will engage in a practical exercise trying to answer that age-old question: "How to begin?"
 {: .desc}
 
+**Cynthia Gorney: Ten Ways to Interrogate Your Own Story Idea**
+{: .desc}
+
+So you think you're ready to make a killer feature story pitch, or charge off into your story. Are you really? Here's a list of crucial questions to ask yourself before you set out to report. Finding out you don't know the answer to one of them could save you a lot of sorrow down the road.
+{: .desc}
 
 ### 15:15--15:45
 Conference center lobby and terrace
@@ -117,7 +120,8 @@ New York Hall and break-out rooms Vienna, Beijing, Seoul
 **Mona Nicoară: Putting The Right Things In The Right Order** (continued)
 {: .desc}
 
-
+**Cynthia Gorney: Ten Ways to Interrogate Your Own Story Idea** (continued)
+{: .desc}
 
 ### 17:15--18:30
 New York Hall
