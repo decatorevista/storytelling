@@ -290,6 +290,23 @@ header {
         display: none;
       }
     }
+    
+    .register-now {
+      @include buton();
+      @include omega();
+      
+      width: 100%;
+      display: block;
+      margin-top: $gutter;
+      text-align: center;
+      text-decoration: none;
+      
+      background-color: $cyan_dark;
+     
+      &:hover {
+       background-color: $cyan_lighted;
+      }
+    }
 
     ul {
       margin: 0;
