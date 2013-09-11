@@ -27,41 +27,34 @@ New York Hall
 **Welcome & Introductions**
 {: .desc}
 
-
-**Mona Nicoară: The Boundaries of the Storyteller**
-{: .desc}
-
-A journalist, an activist, and an artist walk into the same story. I have no punchline, just a few strange insights that came out of the muted struggle between the three over the six years it took to make my documentary Our School. 
-{: .desc}
-
+### 10:10--10:45
 **Chris Jones: Getting the Goods**
 {: .desc}
 
 Good reporting is essential to telling true stories, but there is more to reporting than the simple gathering of facts. Nobody reads phone books, and they’re filled with facts. Good stories offer something more; they reveal something larger about the world. Careful reporting will help you tell that kind of story, but most important, it should also reveal why your story matters—why it should count.
 {: .desc}
 
+### 10:45--11:20
+**Cynthia Gorney: Finding Stories Within the Mess**
+{: .desc}
+
+Sometimes a journalist's job seems utterly self-contradictory: writing clear, compelling narrative that conveys how very complicated things really are. If you're assigned some topic as vast and multi-faceted as "child marriage" or "Cuba today," how do you find your way to a story that tries to do justice to its complexity? We'll use both these actual examples, from recent National Geographic stories, to explore the process--from the first immersive learning to the decisions about how to report and when to zoom in.  
+{: .desc}
+
+### 11:20--11:55
+**Mona Nicoară: The Boundaries of the Storyteller**
+{: .desc}
+
+A journalist, an activist, and an artist walk into the same story. I have no punchline, just a few strange insights that came out of the muted struggle between the three over the six years it took to make my documentary Our School. 
+{: .desc}
+
+### 11:55--12:30
+
 **Tom Junod: Is It Worth It?**
 {: .desc}
 
 It is hard to write a great longform story. It requires a lot of time, a lot of reporting, a lot of thinking, a lot of immersion into a subject, and, generally, a lot of drafts. And yet longform journalism is not investigative journalism; it doesn't expose wrongdoing or, for the most part, even fulfill the classic journalistic mission of afflicting the comfortable and comforting the afflicted. And yet, even as journalism itself is under siege in the digital age, longform journalism continues to draw an audience, and has inspired a whole new generation of practitioners. So what makes it so attractive? What makes it important? Most importantly, what makes it worth doing?
 {: .desc}
-
-**Cynthia Gorney: Finding Stories Within the Mess**
-Sometimes a journalist's job seems utterly self-contradictory: writing clear, compelling narrative that conveys how very complicated things really are. If you're assigned some topic as vast and multi-faceted as "child marriage" or "Cuba today," how do you find your way to a story that tries to do justice to its complexity? We'll use both these actual examples, from recent National Geographic stories, to explore the process--from the first immersive learning to the decisions about how to report and when to zoom in.  
-{: .desc}
-
-**Jens Lekman: Singing Stories**
-{: .desc}
-
-Jens Lekman is known for the narratives embedded in his songs, be they about relationships, or one’s place in the world. Many of his songs are stories drawn from real life, and Jens will talk about the creative process of putting them together, and sing a few to illustrate.
-{: .desc}
-
-**Jacqui Banaszynski: Pebbles in the Pond – Touching Hearts One Story At A Time**
-{: .desc}
-
-The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never be discounted.
-{: .desc}
-
 
 
 ### 12:30--14:00
@@ -108,6 +101,21 @@ New York Hall
 {: .loc}
 
 #### Keynote speeches
+
+### 17:15--17:45
+**Jens Lekman: Singing Stories**
+{: .desc}
+
+Jens Lekman is known for the narratives embedded in his songs, be they about relationships, or one’s place in the world. Many of his songs are stories drawn from real life, and Jens will talk about the creative process of putting them together, and sing a few to illustrate.
+{: .desc}
+
+### 17:45--18:15
+**Jacqui Banaszynski: Pebbles in the Pond – Touching Hearts One Story At A Time**
+{: .desc}
+
+The success of stories is often measured in impact – how many clicks they receive, how many laws they change, how many injustices they reveal. But stories have another purpose and power – the power to reach people, to reveal our shared humanity, and to create ripples that become waves that land on unseen shores. The emotional impact of stories can’t easily be counted. But it should never be discounted.
+{: .desc}
+
 
 ### 18:30--19:30
 Conference center lobby and terrace
