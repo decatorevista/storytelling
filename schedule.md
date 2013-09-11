@@ -23,6 +23,11 @@ New York Hall
 
 #### Welcome and opening keynote speeches
 
+### 10:00--10:10
+**Welcome & Introductions**
+{: .desc}
+
+
 **Mona Nicoară: The Boundaries of the Storyteller**
 {: .desc}
 
