@@ -103,31 +103,6 @@ Editing a story, whether on film, on the radio, in pictures or on paper is the h
 So you think you're ready to make a killer feature story pitch, or charge off into your story. Are you really? Here's a list of crucial questions to ask yourself before you set out to report. Finding out you don't know the answer to one of them could save you a lot of sorrow down the road.
 {: .desc}
 
-### 15:15--15:45
-Conference center lobby and terrace
-{: .loc}
-
-#### Coffee break
-
-### 15:45--17:00
-New York Hall and break-out rooms Vienna, Beijing, Seoul
-{: .loc}
-
-#### Breakout sessions (continued)
-
-
-**Tom Junod and Chris Jones panel: Your voice and how to use it** (continued)
-{: .desc}
-
-**Jacqui Banaszynski: The Art Of The Interview – A Creative Dance of Intimacy and Ethics** (continued)
-{: .desc}
-
-**Mona Nicoară: Putting The Right Things In The Right Order** (continued)
-{: .desc}
-
-**Cynthia Gorney: Ten Ways to Interrogate Your Own Story Idea** (continued)
-{: .desc}
-
 ### 17:15--18:30
 New York Hall
 {: .loc}
