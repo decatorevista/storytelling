@@ -71,7 +71,7 @@ Conference center lobby and terrace
 #### Lunch Break
 
 
-### 14:00--15:15
+### 14:00--17:00
 New York Hall and break-out rooms Vienna, Beijing, Seoul
 {: .loc}
 
