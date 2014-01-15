@@ -13,6 +13,14 @@ published: true
 
     section#content
 
+      .newsletter
+        h2.ty data-thankyou='Thank you for your interest.'
+          | Sign up for conference news
+
+        form#last-subscribe action='http://decatorevista.us4.list-manage.com/subscribe/post?u=e0e3ba0b168a961b7b80c955e&amp;id=392861be87' method='post'
+          input.email type='email' name='EMAIL' required='true' placeholder='Your email goes here...'
+          input.send type='submit' value='Subscribe'
+
       .speakers
 
         h2 Speakers
@@ -78,13 +86,4 @@ published: true
   .wrapper
 
     section#pre-footer
-
-      .newsletter
-        h2.ty data-thankyou='Thank you for your interest.'
-          | Sign up for conference news
-
-        form#last-subscribe action='http://decatorevista.us4.list-manage.com/subscribe/post?u=e0e3ba0b168a961b7b80c955e&amp;id=392861be87' method='post'
-          input.email type='email' name='EMAIL' required='true' placeholder='Your email goes here...'
-          input.send type='submit' value='Subscribe'
-
 | {% slim partners-sponsors.slim %}
