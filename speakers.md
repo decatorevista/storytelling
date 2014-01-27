@@ -14,7 +14,7 @@ Tom Junod has been a writer-at-large for Esquire for 16 years. He got his start 
 
 His work has been widely anthologized, and *The Falling Man*, his 2003 story about a photograph taken on 9/11, has been named one of the seven top stories in Esquire's 80 year history. Born and raised in Long Island, he lives in Marietta, with his wife and his daughter and his dog.
 
-> Watch his [keynote on YouTube](http://www.youtube.com/watch?v=i2NEaLuQKMk) {:target="_blank"}.
+> **Watch his [keynote on YouTube](http://www.youtube.com/watch?v=i2NEaLuQKMk){:target="_blank"}.**
 
 > Follow his tweets at [@TomJunod](http://www.twitter.com/tomjunod){:target="_blank"}.
 
@@ -28,7 +28,7 @@ She has traveled to all seven continents, including Antarctica. She has covered 
 
 She has edited several award-winning projects, and leads workshops for editors and reporters around the world. This is her fourth visit to Romania.
 
-> Watch her [keynote on YouTube](http://www.youtube.com/watch?v=H6UhoJfVElM) {:target="_blank"}.
+> **Watch her [keynote on YouTube](http://www.youtube.com/watch?v=H6UhoJfVElM){:target="_blank"}.**
 
 > Follow her tweets at [@JacquiB](http://www.twitter.com/jacquib){:target="_blank"}.
 
@@ -44,7 +44,7 @@ He began his career as a boxing writer for the National Post in Toronto. This is
 
 His work has also appeared in the Best American Magazine Writing, Best American Sports Writing, and Best American Political Writing anthologies. He is coming back to Bucharest this year to rediscover the passion he found at the 2012 edition.
 
-> Watch his [keynote on YouTube](http://www.youtube.com/watch?v=yosOFWceWi4) {:target="_blank"}.
+> **Watch his [keynote on YouTube](http://www.youtube.com/watch?v=yosOFWceWi4){:target="_blank"}.**
 
 > Follow his tweets at [@MySecondEmpire](http://www.twitter.com/mysecondempire){:target="_blank"}.
 
@@ -83,6 +83,6 @@ After spending 15 years in journalism as a newspaper feature writer and foreign 
 
 She is fluent in Spanish, has forgotten (*merde!*) much of her once-fluent French, and this fall will be enrolled in a college class in Arabic.
 
-**> Watch her [keynote on YouTube](http://www.youtube.com/watch?v=LpuIEfb1FwA) {:target="_blank"}.**
+> **Watch her [keynote on YouTube](http://www.youtube.com/watch?v=LpuIEfb1FwA){:target="_blank"}.**
 
 > Follow her tweets at [@reporteracg](http://www.twitter.com/reporteracg){:target="_blank"}.
