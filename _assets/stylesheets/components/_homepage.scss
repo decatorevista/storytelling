@@ -97,6 +97,24 @@ header {
         font-size: em(24);
         margin-bottom: 0;
       }
+      
+      .keynote {
+        border: none;
+        color: #FFF;
+        text-transform: uppercase;
+        font-weight: bold;
+        background-color: #CEECDB;
+        padding: 20px 0;
+        -webkit-transition: background-color 0.2s;
+        -moz-transition: background-color 0.2s;
+        transition: background-color 0.2s;
+        margin-right: 0;
+        width: 100%;
+        display: block;
+        margin-top: 20px;
+        text-align: center;
+        text-decoration: none;
+       }
 
       img {
         border-radius: 1000px;
