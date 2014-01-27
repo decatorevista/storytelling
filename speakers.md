@@ -77,4 +77,6 @@ After spending 15 years in journalism as a newspaper feature writer and foreign 
 
 She is fluent in Spanish, has forgotten (*merde!*) much of her once-fluent French, and this fall will be enrolled in a college class in Arabic.
 
+> Watch her [keynote on YouTube](http://www.youtube.com/watch?v=LpuIEfb1FwA) {:target="_blank"}.
+
 > Follow her tweets at [@reporteracg](http://www.twitter.com/reporteracg){:target="_blank"}.
