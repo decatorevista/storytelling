@@ -103,17 +103,23 @@ header {
         color: #FFF;
         text-transform: uppercase;
         font-weight: bold;
-        background-color: #CEECDB;
-        padding: 20px 0;
+        background-color: #6EC695;
+        padding: 10px 0;
         -webkit-transition: background-color 0.2s;
         -moz-transition: background-color 0.2s;
         transition: background-color 0.2s;
-        margin-right: 0;
-        width: 100%;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        margin-left: 25px;
+        width: 80%;
         display: block;
         margin-top: 20px;
         text-align: center;
         text-decoration: none;
+       }
+       
+       .keynote:hover {
+        background-color: #CEECDB;
        }
 
       img {
