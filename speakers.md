@@ -14,6 +14,8 @@ Tom Junod has been a writer-at-large for Esquire for 16 years. He got his start 
 
 His work has been widely anthologized, and *The Falling Man*, his 2003 story about a photograph taken on 9/11, has been named one of the seven top stories in Esquire's 80 year history. Born and raised in Long Island, he lives in Marietta, with his wife and his daughter and his dog.
 
+> Watch his [keynote on YouTube](http://www.youtube.com/watch?v=i2NEaLuQKMk) {:target="_blank"}.
+
 > Follow his tweets at [@TomJunod](http://www.twitter.com/tomjunod){:target="_blank"}.
 
 ### Jacqui Banaszynski
@@ -25,6 +27,8 @@ Jacqui Banaszynski is a Pulitzer Prize winning reporter who now holds the Knight
 She has traveled to all seven continents, including Antarctica. She has covered beauty pageants and popes, AIDS and the Olympics, dogsled expeditions and refugee camps. She was a finalist for the 1986 Pulitzer in international reporting for coverage of the Ethiopian famine. While at the St. Paul Pioneer Press, her series *AIDS in the Heartland – an intimate look at the life and death of a gay farm couple* won the 1988 Pulitzer Prize in feature writing.
 
 She has edited several award-winning projects, and leads workshops for editors and reporters around the world. This is her fourth visit to Romania.
+
+> Watch her [keynote on YouTube](http://www.youtube.com/watch?v=H6UhoJfVElM) {:target="_blank"}.
 
 > Follow her tweets at [@JacquiB](http://www.twitter.com/jacquib){:target="_blank"}.
 
@@ -39,6 +43,8 @@ Chris Jones is an award winning writer-at-large for Esquire, and a contributing 
 He began his career as a boxing writer for the National Post in Toronto. This is also the subject of his first book, *Falling Hard: A Rookie's Year in Boxing* (2007). In 2005, he won the National Magazine Award for Feature Writing for *Home*, a story about three astronauts stranded on the International Space Station when the shuttle Columbia exploded. In 2010, he won his second National Magazine Award for *The Things That Carried Him*, a heartbreaking story that chronicled the return of the body of Sgt. Joe Montgomery from Iraq to Scottsburg, Indiana.
 
 His work has also appeared in the Best American Magazine Writing, Best American Sports Writing, and Best American Political Writing anthologies. He is coming back to Bucharest this year to rediscover the passion he found at the 2012 edition.
+
+> Watch his [keynote on YouTube](http://www.youtube.com/watch?v=yosOFWceWi4) {:target="_blank"}.
 
 > Follow his tweets at [@MySecondEmpire](http://www.twitter.com/mysecondempire){:target="_blank"}.
 
