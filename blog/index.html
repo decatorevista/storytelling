@@ -1,0 +1,18 @@
+---
+layout: homepage
+title: "The Power of Storytelling Blog"
+name: blog
+published: true
+---
+
+<section class="content">
+  <ul class="listing">
+    {% for post in site.posts %}
+      {% unless post.draft %}
+      <li>
+      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</section>

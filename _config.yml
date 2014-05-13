@@ -3,6 +3,7 @@ markdown: kramdown
 pygments: false
 baseurl: /storytelling/2013/
 destination: public
+permalink: /posts/:title
 exclude:
   - Minafile
   - wercker.yml
