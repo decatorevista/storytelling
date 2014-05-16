@@ -20,8 +20,8 @@
     @include respond(to-em(655px)) {
         .l-sidebar-sec & { //meh
             text-indent: -1em;
-            margin-left: 0.6em;
-            margin-right: -0.6em;
+            margin-left: 0.7em;
+            margin-right: -0.7em;
         }
 
         .l-sidebar & { //meh

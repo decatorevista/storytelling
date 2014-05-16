@@ -32,6 +32,11 @@
                 e.preventDefault();
                 var connID = $(this).data('connID');
 
+                self.$root.trigger({
+                    type: 'tabswitch',
+                    $trigger: $(this),
+                });
+
                 self.focusOn(connID);
             }).filter('.' + self.o.focusClass).click();
 

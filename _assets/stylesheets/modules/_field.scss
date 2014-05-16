@@ -1,0 +1,164 @@
+/* Form "fields". Inspired by Bootstrap's .control-group
+   ========================================================================== */
+
+@mixin form-fields-state ($text: #555, $border: #ccc) {
+
+    // Set the text color
+    .field__label {
+        color: $text;
+    }
+
+    // Style inputs accordingly
+    input,
+    select,
+    textarea {
+        color: $text;
+        border-color: $text;
+
+        &:focus {
+            border-color: $text;
+            @include box-shadow($text 0 0 8px);
+        }
+    }
+
+}
+
+.field {
+    font-size: 12px;
+    line-height: 1.667;
+    @include box-sizing(border-box);
+    @include cf;
+            margin: 0 0 20px 0;
+
+    input,
+    textarea {
+        border-color: $bw_8;
+        border-radius: 5px;
+    }
+
+    // Error
+    &.is-error {
+        @include form-fields-state($error, $error-light);
+    }
+    // Success
+    &.is-success {
+        @include form-fields-state($success, $success-light);
+    }
+    // Warning
+    &.is-warning {
+        @include form-fields-state($warning, $warning-light);
+    }
+}
+
+.field__label {
+    @extend %type-headings;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: $bw_6;
+    padding-left: 0.5em;
+
+    i {
+        color: $magenta;
+        font-style: normal;
+        margin: 0 0 0 0.25em;
+    }
+}
+
+.field__controls {
+
+}
+
+.field__controls--special {
+    @include cf;
+    border-bottom: 2px solid $magenta;
+    overflow: hidden;
+
+    .control {
+        @include box-sizing(border-box);
+        width: 100 / 3 * 1%;
+        float: left;
+        cursor: pointer;
+        background: $bw_10;
+        color: $bw_5;
+        padding: 2em 1em;
+
+        margin-bottom: -99999px;
+        padding-bottom: 99999px;
+
+        input {
+            display: none;
+        }
+
+
+        &.is-checked {
+            background: $magenta;
+            color: #fff;
+        }
+
+        h4 {
+            font-size: 15px;
+        }
+
+        p {
+            padding: 0 0 1em 0;
+        }
+    }
+}
+
+
+.field__info {
+    padding-left: 0.5em;
+    color: $bw_6;
+}
+
+.field--actions {
+    .field__controls {
+        @include box-sizing(border-box);
+        width: 135px;
+        float: left;
+        padding: 0 20px 0 0;
+    }
+
+    .button {
+        white-space: normal;
+    }
+
+    .field__info {
+        overflow: hidden;
+        padding: 0 0 0 20px;
+        border-left: 1px solid $bw_8;
+
+        strong {
+            @extend %type-headings;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+    }
+}
+
+
+
+
+.l-field-group {
+
+}
+
+.l-field-group--2cols {
+    margin: 0 -10px;
+    @include cf;
+
+    .field {
+        float: left;
+        width: 50%;
+        padding: 0 10px;
+    }
+}
+
+.l-field-group--breakout {
+    border-top: 2px solid $magenta;
+    padding: to-em(30px) 0 to-em(10px) 0;
+
+    .field__info {
+        margin: 0 0 20px 0;
+    }
+}

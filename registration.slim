@@ -14,109 +14,116 @@ published: true
 
   p The registration is completed only when you have submitted the registration form and paid the fee.
 
-  .tabbed
-    ul.tabbed__nav
-      li.tabbed__trig
-        a href='#reg-full' Buy Full Ticket - 550 RON
-      li.tabbed__trig
-        a href='#reg-friday' Buy Friday only - 350 RON
+form.tabbed
+  ul.tabbed__nav
+    li.tabbed__trig.is-focused
+      a href='#reg-full'
+        | Buy Full Ticket - 550 RON
+        input type='radio' name='reg-ticket' checked='checked' value='full'
+    li.tabbed__trig
+      a href='#reg-friday'
+        | Buy Friday only - 350 RON
+        input type='radio' name='reg-ticket' value='friday'
 
-    .l-field-group.l-field-group--2cols
+  .l-field-group.l-field-group--2cols
 
-      .field
-        label.field__label for='reg-first'
-          | First name
-          i *
-        .field__controls
-          input type='text' required='true' name='reg-first' id='reg-first'
+    .field
+      label.field__label for='reg-first'
+        | First name
+        i *
+      .field__controls
+        input type='text' required='true' name='reg-first' id='reg-first'
 
-      .field
-        label.field__label for='reg-last'
-          | Last name
-          i *
-        .field__controls
-          input type='text' required='true' name='reg-last' id='reg-last'
+    .field
+      label.field__label for='reg-last'
+        | Last name
+        i *
+      .field__controls
+        input type='text' required='true' name='reg-last' id='reg-last'
 
-      .field
-        label.field__label for='reg-job'
-          | Job title
-        .field__controls
-          input type='text' name='reg-job' id='reg-job'
+    .field
+      label.field__label for='reg-job'
+        | Job title
+      .field__controls
+        input type='text' name='reg-job' id='reg-job'
 
-      .field
-        label.field__label for='reg-company'
-          | Company
-          i *
-        .field__controls
-          input type='text' required='true' name='reg-company' id='reg-company' placeholder='If freelancing, write “freelance”'
+    .field
+      label.field__label for='reg-company'
+        | Company
+        i *
+      .field__controls
+        input type='text' required='true' name='reg-company' id='reg-company' placeholder='If freelancing, write “freelance”'
 
-      .field
-        label.field__label for='reg-industry'
-          | Industry
-        .field__controls
-          input type='text' name='reg-industry' id='reg-industry' placeholder='Digital media, NGOs, PR etc.'
+    .field
+      label.field__label for='reg-industry'
+        | Industry
+      .field__controls
+        input type='text' name='reg-industry' id='reg-industry' placeholder='Digital media, NGOs, PR etc.'
 
-      .field
-        label.field__label for='reg-country'
-          | Country
-          i *
-        .field__controls
-          input type='text' required='true' name='reg-country' id='reg-country'
+    .field
+      label.field__label for='reg-country'
+        | Country
+        i *
+      .field__controls
+        input type='text' required='true' name='reg-country' id='reg-country'
 
-      .field
-        label.field__label for='reg-mail'
-          | Email
-          i *
-        .field__controls
-          input type='text' required='true' name='reg-mail' id='reg-mail'
+    .field
+      label.field__label for='reg-mail'
+        | Email
+        i *
+      .field__controls
+        input type='email' required='true' name='reg-mail' id='reg-mail'
 
-      .field
-        label.field__label for='reg-phone'
-          | Phone number
-          i *
-        .field__controls
-          input type='text' required='true' name='reg-phone' id='reg-phone'
+    .field
+      label.field__label for='reg-phone'
+        | Phone number
+        i *
+      .field__controls
+        input type='text' required='true' name='reg-phone' id='reg-phone'
 
 
-    #reg-full.tabbed__pane.l-field-group.l-field-group--breakout
-      .field
-        label.field__label
-          | Breakout track for Saturday
-          i *
-        .field__info
-          p Only for Full participants. Each track includes 3-4 workshop focusing on a particular type of skill. For more details, <a href="#">check out the Saturday schedule</a>.
+  #reg-full.tabbed__pane.l-field-group.l-field-group--breakout.is-focused
+    .field
+      label.field__label
+        | Breakout track for Saturday
+        i *
+      .field__info
+        p Only for <i>Full</i> participants. Each track includes 3-4 workshop focusing on a particular type of skill. For more details, <a href="#">check out the Saturday schedule</a>.
 
-        .field__controls
-          label.control-radio
-            input type='radio' name='reg-track' checked='checked'
-            | Option 1
-          label.control-radio
-            input type='radio' name='reg-track'
-            | Option 2
-          label.control-radio
-            input type='radio' name='reg-track'
-            | Option 3
+      .field__controls.field__controls--special
+        .control.is-checked
+          input type='radio' name='reg-track' checked='checked' value='1'
+          h4 Explorer
+          p recommended for reporters, writers, researchers, anyone who wants to sharpen ideas and structures.
+        .control
+          input type='radio' name='reg-track' value='2'
+          h4 Maker
+          p recommended for writers, producers, photographers, communicators.
+        .control
+          input type='radio' name='reg-track' value='3'
+          h4 Shaper
+          p recommended for communicators, entrepreneurs, leaders, anyone who wants to use stories in organization or product building.
 
-    #reg-friday.tabbed__pane
+  #reg-friday.tabbed__pane
 
-    .l-field-group
-      .field
-        label.field__label for='reg-where'
-          | Where did you hear about the conference?
-        .field__controls
-          input type='text' name='reg-where' id='reg-where' placeholder='E.g. conference newsletter, Facebook, Twitter, friends, colleagues etc.'
+  .l-field-group
+    .field
+      label.field__label for='reg-where'
+        | Where did you hear about the conference?
+      .field__controls
+        input type='text' name='reg-where' id='reg-where' placeholder='E.g. conference newsletter, Facebook, Twitter, friends, colleagues etc.'
 
-      .field
-        label.field__label for='reg-motivates'
-          | What motivates you to attend?
-        .field__controls
-          textarea type='text' name='reg-motivates' id='reg-motivates'
+    .field
+      label.field__label for='reg-motivates'
+        | What motivates you to attend?
+      .field__controls
+        textarea type='text' name='reg-motivation' id='reg-motivates' rows='4'
 
-      .field.field--actions
-        .field__controls
-          button.button type='submit' Submit
-        .field__info
-          p
-            strong You will be directed to our payment processor.
-          p Please follow their instructions. Once the payment is completed, we will contact you with further instructions. Thank you for your interest!
+    .field.field--actions
+      .field__controls
+        button.button type='submit' Continue to payment
+      .field__info
+        p
+          strong You will be directed to our payment processor.
+        p Please follow their instructions. Once the payment is completed, we will contact you with further instructions. Thank you for your interest!
 

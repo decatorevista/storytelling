@@ -1,0 +1,58 @@
+.tabbed {
+
+}
+
+.tabbed__nav {
+    margin: to-em(50px) 0 to-em(30px) 0;
+    @include cf;
+    border-bottom: 2px solid $magenta;
+}
+
+.tabbed__trig {
+    @include box-sizing(border-box);
+    display: block;
+    width: 50%;
+    float: left;
+    padding: 0 10px 0 0;
+    margin: 0 0 -2px 0;
+
+    font-size: 12px;
+    line-height: 1.667;
+    text-transform: uppercase;
+    font-weight: bold;
+    @extend %type-headings;
+    text-align: center;
+
+    & + & {
+        padding: 0 0 0 10px;
+    }
+
+    a {
+        display: block;
+        padding: 0.8334em;
+        background: #fff;
+        color: $bw_8;
+        border: 2px solid $bw_8;
+        border-bottom: 0;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+    }
+
+    &.is-focused a {
+        color: $magenta;
+        border-color: $magenta;
+        border-bottom: 2px solid #fff;
+    }
+
+    input {
+        display: none;
+    }
+}
+
+.tabbed__pane {
+    display: none;
+
+    &.is-focused {
+        display: block;
+    }
+}

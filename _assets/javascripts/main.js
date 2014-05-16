@@ -33,8 +33,32 @@
                     trigger: '.tabbed__trig',
                     pane: '.tabbed__pane'
                 }
+            }).on('tabswitch', function (e) {
+                e.$trigger.find('input').prop('checked', true);
             });
+
+            CORE.packageControl();
         },
+
+        packageControl: function () {
+            var $group = $('#reg-full .field__controls--special');
+
+            if (!$group.length) {
+                return;
+            }
+
+            var $inputs = $group.find('input');
+            var $controls = $group.find('.control');
+
+            $controls.on('click', function (e){
+                var $control = $(this);
+
+                $control.addClass('is-checked').find('input').prop('checked', true);
+
+                $control.siblings().removeClass('is-checked');
+            });
+
+        }
 
     };
 
