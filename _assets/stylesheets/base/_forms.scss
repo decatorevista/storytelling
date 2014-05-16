@@ -1,0 +1,203 @@
+/* ==========================================================================
+   Base rules for form elements
+   ========================================================================== */
+
+$input-color:                   #444                !default;
+$input-bg:                      #fff                !default;
+$input-border:                  #bbb                !default;
+
+$input-placeholder-color:       #999                !default;
+
+$input-focus-color:             false               !default;
+$input-focus-bg:                false               !default;
+$input-focus-border:            #bada55             !default;
+
+$input-disabled-color:          #666                !default;
+$input-disabled-bg:             #eee                !default;
+$input-disabled-border:         #ccc                !default;
+
+$input-invalid-color:           #ff0000             !default;
+$input-invalid-bg:              false               !default;
+$input-invalid-border:          $input-invalid-color !default; // should have lightness adjusted :/
+
+$text-based-inputs:
+'input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"]' !default;
+
+
+/**
+ * Core styling for text-based inputs, textareas & selects
+ *
+ * You can opt for a default 100% or something fixed depending on your design.
+ * Don't use input[type="button"] or other variants, use the <button> element!
+ */
+
+#{$text-based-inputs},
+textarea,
+select {
+    display: inline-block;
+    @include box-sizing(border-box);
+
+    line-height: (20/16);
+    min-height: 30px; // line-height + padding + border
+    padding: 4px 0.5em;
+
+    color: $input-color;
+    background-color: $input-bg;
+    border: 1px solid $input-border;
+}
+
+
+/**
+ * Width needs to be declared on all inputs since the specificity would be too
+ * big with type selectors
+ */
+
+input,
+textarea,
+select {
+    width: 100%;
+}
+
+
+/* Reset width of input images, buttons, radios, checkboxes. Yawn. */
+
+input[type="file"],
+input[type="image"],
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+input[type="radio"],
+input[type="checkbox"] {
+    width: auto;
+}
+
+
+/* Make textarea height behave, allow only vertical resize */
+
+textarea {
+    height: auto;
+    resize: vertical;
+}
+
+
+/* Placeholder text */
+
+input,
+textarea {
+    @include placeholder {
+        color: $input-placeholder-color;
+    }
+}
+
+
+input[type="checkbox"],
+input[type="radio"] {
+    margin: 4px 0 0 0;
+    margin-top: 1px \9; /* IE8-9 */
+    line-height: normal;
+    //cursor: pointer;
+}
+
+
+/* Make multiple select elements height not fixed */
+
+select[multiple],
+select[size] {
+    height: auto;
+}
+
+
+input[type="file"] {
+    height: 30px;
+    line-height: (20/16);
+}
+
+
+
+/* Focus states
+   ========================================================================== */
+
+input:focus,
+textarea:focus {
+    @if $input-focus-color      { color: $input-focus-color; }
+    @if $input-focus-bg         { background-color: $input-focus-bg; }
+    border-color: $input-focus-border;
+
+    outline: 0;
+    outline: thin dotted \9; // IE6-9
+}
+
+input[type="file"]:focus,
+input[type="radio"]:focus,
+input[type="checkbox"]:focus,
+select:focus {
+    @include default-focus();
+}
+
+
+
+/* Disabled and read-only inputs
+   ========================================================================== */
+
+input[disabled],
+select[disabled],
+textarea[disabled],
+input[readonly],
+select[readonly],
+textarea[readonly] {
+    cursor: not-allowed;
+    color: $input-disabled-color;
+    background-color: $input-disabled-bg;
+    border-color: $input-disabled-border;
+}
+
+
+/* Explicitly reset the colors here */
+
+input[type="radio"][disabled],
+input[type="checkbox"][disabled],
+input[type="radio"][readonly],
+input[type="checkbox"][readonly] {
+    background-color: transparent;
+}
+
+
+
+/* HTML5 Valid states
+   ========================================================================== */
+
+input:focus:required:invalid,
+textarea:focus:required:invalid,
+select:focus:required:invalid {
+    //color: $input-invalid-color;
+    //@if $input-invalid-bg         { background-color: $input-invalid-bg; }
+    //border-color: $input-invalid-border;
+}
+
+
+
+/* Other elements
+   ==========================================================================*/
+
+fieldset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+legend {
+    display: block;
+}

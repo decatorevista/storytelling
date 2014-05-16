@@ -1,0 +1,14 @@
+.button {
+    border: 1px solid $magenta;
+    border-radius: 5px;
+    padding: 0.6em 0.75em;
+    @extend %type-headings;
+    text-transform: uppercase;
+    color: $magenta;
+    font-weight: bold;
+
+    &:hover {
+        background: $magenta;
+        color: #fff;
+    }
+}

@@ -1,0 +1,47 @@
+/* ==========================================================================
+   Reset text styling
+   ========================================================================== */
+
+/**
+ * Reset all headings, paragraphs, lists, blockquotes as .formatted will
+ * take over. When using normalize 1.x, relevant sections could be removed from
+ * it to save more bytes.   
+ */
+
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+    font-weight:inherit;
+    line-height:inherit;
+    font-size:inherit;
+    color: inherit;
+    margin:0;
+}
+
+p {
+    margin: 0;
+}
+
+dl,
+menu,
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    list-style-image: none;
+}
+
+dd,
+dt {
+    margin: 0;
+}
+
+blockquote {
+    margin: 0;
+    padding: 0;
+}

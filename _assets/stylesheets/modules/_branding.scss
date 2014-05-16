@@ -1,0 +1,13 @@
+.branding {
+    width: 160px;
+
+    @include respond(to-em($menu-controls-breakpoint)) {
+        width: auto;
+        max-width: 270px;
+    }
+
+    a,
+    img {
+        display: block;
+    }
+}

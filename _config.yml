@@ -1,14 +1,25 @@
 name: The Power of Storytelling
 markdown: kramdown
-pygments: false
+highlighter: null
 baseurl: /storytelling/2013/
 destination: public
-permalink: /posts/:title
+permalink: /blog/:title
 exclude:
   - Minafile
   - wercker.yml
   - Gemfile
   - Gemfile.lock
+assets:
+  #js_compressor: uglifier
+  # css_compressor: sass
+  baseurl: /storytelling/2013/assets/
+  cachebust: soft
+  sources:
+    - _assets/fonts
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
+
 kramdown:
   auto_ids: true
   footnote_nr: 1
@@ -16,8 +27,3 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   use_coderay: false
-assets:
-  js_compressor: uglifier
-  css_compressor: sass
-  baseurl: /storytelling/2013/assets/
-  cachebust: soft

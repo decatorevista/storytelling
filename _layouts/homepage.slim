@@ -1,8 +1,25 @@
 | {% slim head.slim %}
 
 body class='{{ page.name }}'
-  | {% slim header.slim %}
+  #container.with-offscreen data-toggle='offscreen' data-base='true'
+    .offscreen-canvas data-offscreen-control='pane'
 
-  | {{ content }}
+      | {% slim header.slim %}
 
-  | {% slim footer.slim %}
+      .l-wrap.l-app
+
+        .l-sidebar
+          | {% slim sidebar-home.slim %}
+
+        .l-main
+
+          .l-content.l-content--full
+            .copy
+              h1
+                | {{ page.title }}
+
+              | {{ content }}
+
+      | {% slim partners.slim %}
+
+      | {% slim footer.slim %}

@@ -1,0 +1,222 @@
+/* ==========================================================================
+   Menu starting point
+   ========================================================================== */
+
+$menu-controls-breakpoint:      50em !default;
+
+/**
+ * Accesible controls & minimal behavior
+ *
+ * Controls should only be displayed on small screens.
+ * The :target pseudo-selector is used to show/hide the menu for devices with
+ * poor or no js support
+ *
+ * Build up from here in your application level css
+ *
+ * Expected markup:
+ *
+ * %a.menu-open{:href => "#primary-navigation"} Menu
+ *
+ * %nav.menu{:id => "primary-navigation"}
+ *
+ *   %ul
+ *
+ *     %li.menu__item
+ *       %a{:href => "#"} Home
+ *
+ *     %li.menu__item
+ *       %a{:href => "#"} Sample Page
+ *       %ul.sub-menu
+ *         %li.sub-menu__item
+ *           %a{:href => "#"} Check this out
+ *         %li.sub-menu__item
+ *           %a{:href => "#"} Desert cruiser
+ *           %ul.sub-menu
+ *             %li.sub-menu__item
+ *               %a{:href => "#"} Sample Page
+ *             %li.sub-menu__item
+ *               %a{:href => "#"} Demo forms
+ *
+ *   %a.menu-close{:href => "#container"} Return to content
+ */
+
+
+.menu-open {
+    display: none;
+}
+
+.menu-close {
+    display: none;
+}
+
+
+@include respond ($max: to-em($menu-controls-breakpoint - 1px)) {
+
+    .menu {
+        &:not(:target) {
+            height: 0;
+            overflow: hidden;
+        }
+
+        &:target .menu-close {
+            display: inline-block;
+        }
+    }
+
+    .menu-open {
+        position: absolute;
+        top: 30px;
+        right: 10px;
+        display: inline-block;
+     }
+
+    .offscreen-content.is-active .menu:not(:target) {
+        height: auto;
+        overflow: auto;
+    }
+
+}
+
+
+// The real stuff
+
+.menu {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    @extend %type-headings;
+    font-weight: bold;
+}
+
+
+/**
+ * On small screens we create a dropdown-like menu with collapsible items
+ */
+
+@include respond($max: $menu-controls-breakpoint) {
+
+    /* Offscreen styling only when js is activated */
+
+    .offscreen-content.is-active {
+        background: $bw_4;
+
+        .menu__item > a,
+        .sub-menu__item > a {
+            position: relative;
+            @include box-sizing(border-box);
+            display: block;
+            line-height: 1.25;
+            padding: 0.5em 1em;
+            border-bottom: 1px solid rgba(#000, 0.2);
+            border-top: 1px solid rgba(#fff, 0.2);
+            color: $bw_8;
+
+            &:hover,
+            &.is-focused {
+                color: #fff;
+                background: none;
+            }
+        }
+
+        .menu__item {
+            .dropdown__trig {
+                display: none;
+            }
+
+            .dropdown__pane {
+                display: block !important;
+                position: static;
+
+                background: none;
+                color: inherit;
+                border: 0 !important;
+                border-radius: 0;
+                box-shadow: none;
+            }
+        }
+    }
+
+}
+
+
+@include respond(to-em($menu-controls-breakpoint)) {
+
+    .menu {
+        display: block;
+        @include cf;
+        border-bottom: 3px solid $magenta-dark;
+    }
+
+    .menu__item {
+        position: relative;
+        float: left;
+        margin: 0 0 0 32px;
+
+        &:first-child {
+            margin-left: 0;
+        }
+
+        a {
+            display: block;
+            margin: 0 0 -3px 0;
+            padding: 0 0 15px 0;
+            border-bottom: 3px solid $magenta-dark;
+            @include transition(border-bottom-color .2s ease-in-out);
+
+            &:hover {
+                text-decoration: none;
+            }
+        }
+
+        &.is-current a,
+        a:hover {
+            border-bottom-color: #fff
+        }
+    }
+
+    // Place the submenus below and horizontally aligned at the center with the
+    // root items
+
+    $menu-flyout-width:    to-em(75px, 12px);
+
+    .sub-menu {
+        position: absolute;
+        top: 27px;
+        z-index: $z-menu;
+        width: $menu-flyout-width;
+
+        a {
+            margin: 0;
+            padding: 0.5em;
+            border: 0;
+            border-top: 1px solid #fff;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        li {
+            text-align: center;
+            &:first-child a {
+                border: 0;
+            }
+        }
+    }
+
+    .menu__item {
+        .dropdown__trig {
+            &:after {
+                content: '';
+                display: inline-block;
+                width: 0;
+                height: 0;
+                border: 4px solid #fff;
+                border-color: #fff transparent transparent transparent;
+                vertical-align: text-bottom;
+                margin-left: 5px;
+            }
+        }
+    }
+
+}

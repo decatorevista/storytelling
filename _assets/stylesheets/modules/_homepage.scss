@@ -1,0 +1,383 @@
+
+
+#content {
+  color: $white;
+  text-align: center;
+
+  .speakers {
+    @include span-columns(12);
+    @include pad($gutter 0 $gutter * 2);
+
+    h2 {
+      font-weight: 200;
+      font-size: em(40);
+    }
+
+    .jacqui, .chris, .tom, .mona, .jens, .cynthia {
+      @include span-columns(4);
+
+      h3 {
+        font-size: em(24);
+        margin-bottom: 0;
+      }
+      
+      .keynote {
+        border: none;
+        color: #008D7D;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: em(14);
+        background-color: #6EC695;
+        padding: 5px;
+        -webkit-transition: background-color 0.2s;
+        -moz-transition: background-color 0.2s;
+        transition: background-color 0.2s;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        margin: 0 auto;
+        width: 55%;
+        display: block;
+        margin-top: 20px;
+        text-align: center;
+        text-decoration: none;
+       }
+       
+       .keynote:hover {
+        background-color: #CEECDB;
+       }
+
+      img {
+        border-radius: 1000px;
+      }
+
+      p {
+        margin-top: 0;
+        color: $cyan_light;
+        line-height: em(20);
+        padding: 0 $gutter;
+      }
+    }
+  }
+}
+
+#page-content {
+  .container {
+    @include span-columns(7);
+    padding-left: $gutter * 2.5;
+    margin-top: $gutter * 2;
+
+    h2 {
+      line-height: $gutter * 2;
+    }
+
+    h3 {
+      font-weight: bold;
+      margin-bottom: 0;
+      line-height: $gutter * 1.5;
+      font-size: em(20);
+    }
+
+    p {
+      margin-top: 0;
+    }
+
+    .speakers & {
+
+      h2 {
+        font-weight: 200;
+      }
+
+      h3 {
+        margin-top: $gutter * 3;
+
+        &:first-child {
+          margin-top: 0;
+        }
+      }
+
+      img {
+        float: right;
+        border-radius: 1000px;
+        margin-top: -$gutter * 2;
+        margin-left: $gutter;
+        width: 200px;
+      }
+
+      blockquote {
+        margin: 0;
+        margin-bottom: $gutter;
+        border-bottom: 1px dashed $cyan_lighted;
+      }
+    }
+
+    .schedule & {
+
+      h3 {
+        width: $gutter * 6.5;
+        font-size: em(14);
+        color: $cyan_lighted;
+        font-weight: 200;
+
+        &:first-child {
+          margin-top: 0;
+        }
+      }
+
+      h4 {
+        color: $cyan_dark;
+        font-size: em(18);
+        line-height: $gutter;
+        margin: -28px 0 40px 130px;
+        display: block;
+        border-bottom: 1px dotted $cyan_lighted;
+        padding-bottom: 8px;
+      }
+
+	  .loc {
+        width: $gutter * 6.5;
+        float: left;
+        padding: 5px 40px 0 0;
+        border-top: 1px dotted $cyan_lighted;
+        font-size: em(12);
+        font-weight: 200;
+        line-height: 15px;
+      }
+
+      .desc {
+        margin: -28px 0 40px 130px;
+      }
+
+      .info {
+        margin: -35px 0 50px 130px;
+        font-size: em(14);
+        line-height: 18px;
+      }
+
+      strong {
+        color: $green_dark;
+        font-size: em(18);
+        line-height: $gutter;
+        display: block;
+        border-bottom: 1px dotted $cyan_lighted;
+        padding-bottom: 8px;
+      }
+
+      blockquote {
+        margin: 0;
+        margin-bottom: $gutter;
+      }
+  }
+
+    .international & {
+
+      hr {
+        border-top: 1px solid $cyan_lighted;
+        border-bottom: 0;
+      }
+
+      .map {
+        float:right;
+      }
+
+      .title {
+        color: $green_dark;
+        margin: 2px 0 0 0;
+        float: left;
+        font-weight: 200;
+        text-align: right;
+        width: $gutter * 3.5;
+        font-size: em(14);
+      }
+
+      .desc {
+        margin: 0 0 10px 80px;
+      }
+
+      ul {
+        list-style: none;
+        margin: 20px 0 0 0;
+
+        li {
+          margin-left: -40px;
+        }
+      }
+    }
+  }
+
+  .sidebar {
+    @include span-columns(5);
+    padding-left: $gutter * 2.5;
+    padding-right: $gutter * 2;
+    margin-top: $gutter * 2;
+
+    h5 {
+      font-weight: bold;
+      color: $cyan_dark;
+      margin-bottom: 0;
+    }
+
+    hr {
+      border-top: 1px solid $cyan_lighted;
+      border-bottom: 0;
+    }
+
+    .meet-our-speakers {
+      @include buton();
+      @include omega();
+
+      width: 100%;
+      display: block;
+      margin-top: $gutter;
+      text-align: center;
+      text-decoration: none;
+
+      .speakers & {
+        display: none;
+      }
+    }
+    
+    .register-now {
+      @include buton();
+      @include omega();
+      
+      width: 100%;
+      display: block;
+      margin-top: $gutter;
+      text-align: center;
+      text-decoration: none;
+      
+      background-color: $cyan_lighted;
+     
+      &:hover {
+       background-color: $cyan_dark;
+      }
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 0;
+
+      li {
+        list-style: none;
+        border-bottom: 1px dashed $cyan_light;
+        padding: $gutter / 2 0;
+
+        &:first-child {
+          padding-top: 0;
+        }
+
+        a {
+          text-decoration: none;
+
+          &:hover {
+            color: $green_dark;
+          }
+        }
+      }
+    }
+  }
+}
+
+#page-title {
+  .container {
+    @include span-columns(12);
+
+    padding: 0 $gutter * 2.5;
+
+    h2 {
+      font-weight: 200;
+      margin: 0;
+      padding: 0;
+      line-height: $gutter * 3 + 4;
+    }
+  }
+}
+
+#pre-footer {
+  .newsletter {
+    @include span-columns(12);
+
+    text-align: center;
+    padding-bottom: 2 * $gutter;
+
+    h2 {
+      font-weight: 200;
+      color: $cyan_dark;
+      margin-bottom: 0;
+    }
+
+    h3 {
+      margin-top: 0;
+      font-weight: bold;
+      color: $white;
+    }
+
+    form {
+      @include span-columns(6);
+      @include shift(3);
+
+      text-align: center;
+
+      input {
+        &.email {
+          @include span-columns(8, table);
+          @include pad($gutter $gutter/2);
+
+          border: 1px solid $cyan_dark;
+          font-size: em(16);
+        }
+      }
+
+      .send {
+        @include span-columns(3, table);
+        @include buton();
+        @include omega();
+
+        font-size: em(16);
+      }
+    }
+  }
+}
+
+#partnerships {
+  .partners {
+    @include span-columns(12);
+
+    text-align: center;
+
+    h2 {
+      font-weight: 200;
+      color: $cyan_dark;
+    }
+
+    .primary {
+      @include span-columns(12);
+	}
+
+    .secondary {
+      @include span-columns(12);
+    }
+  }
+}
+
+section#notes {
+  .contact {
+    @include span-columns(12);
+
+    text-align: center;
+    font-size: em(14);
+	color: #6b7178;
+	border-top: 1px solid #6ec695;
+	padding-top: 20px;
+	margin-top: 20px;
+
+    p {
+      margin-top: 0;
+    }
+
+    p:first-child {
+      margin-bottom: 0;
+    }
+  }
+
+}

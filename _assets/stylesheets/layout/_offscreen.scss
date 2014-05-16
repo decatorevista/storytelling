@@ -1,0 +1,99 @@
+/* ==========================================================================
+   Offscreen content navigation
+   ========================================================================== */
+
+/**
+ * Expected markup
+ *
+ * %body
+ *   #container.with-offscreen{"data-toggle" => "offscreen"}
+ *
+ *     .offscreen-canvas{"data-offscreen-control" => "pane"}
+ *
+ *       // Your content
+ *       // ...
+ *
+ *         // Typically in the header
+ *           %a.menu-open{:href => "#primary-navigation", "data-offscreen-control" => "trigger"} Menu
+ *
+ *           // Usually the same element .menu is applied on
+ *           %nav.menu.offscreen-content{:id => "primary-navigation", "data-offscreen-control" => "nav"}
+ *             //...
+ *             %a.menu-close{:href => "#container", "data-offscreen-control" => "close"} Return to content
+ */
+
+
+$offscreen-position:        right !default;
+$offscreen-width:           16em !default;
+$offscreen-breakpoint:      50em !default;
+
+// Used for calculating transform direction
+$_multiplier: 1;
+
+@if $offscreen-position == right {
+    $_multiplier: -1;
+}
+
+@include respond ($max: $offscreen-breakpoint) {
+
+    /* We need this to keep things together */
+    .with-offscreen {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+    }
+
+    /* Only apply if js is activated */
+    .offscreen-canvas {
+        &.is-active {
+            position: relative;
+
+            #{$offscreen-position}: 0;
+            @include transition(left 0.3s ease-out);
+            @include transition-property(left, right, transform);
+        }
+
+        &.is-focused {
+            #{$offscreen-position}: $offscreen-width;
+        }
+    }
+
+    .offscreen-content {
+        -webkit-transform: translateZ(0);
+
+        &.is-active {
+            overflow: hidden;
+            position: absolute;
+            top: 0;
+            #{$offscreen-position}: -1 * $offscreen-width;
+            height: 100%;
+            width: $offscreen-width;
+        }
+    }
+
+
+    /* Progressively enhance with GPU accelerated transforms */
+    .csstransforms3d {
+        .offscreen-canvas {
+
+            @include transform(translate3d(0,0,0));
+
+            &.is-focused {
+                #{$offscreen-position}: 0;
+                @include transform(translate3d(
+                    $_multiplier * $offscreen-width, 0, 0
+                ));
+            }
+        }
+
+        .offscreen-content {
+            #{$offscreen-position}: 0;
+            @include transform(translate3d(
+                $_multiplier * -1 * $offscreen-width, 0, 0
+            ));
+        }
+    }
+
+}
+
+

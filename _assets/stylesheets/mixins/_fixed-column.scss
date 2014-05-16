@@ -1,0 +1,61 @@
+// ==========================================================================
+// Fixed main column pattern
+// ==========================================================================
+
+// An alternative to the fluid main column pattern
+// http://codepen.io/bradfrost/full/gtkHy
+
+
+// Position the main column
+//
+// $dislodged-space - the space padded on main column which the secondary
+//                    column will overlay
+// $position - the position of the main column
+
+@mixin l-fixed-column__main ($dislodged-space: 0, $position: left) {
+    $opposite: right;
+    @if $position == right {
+        $opposite: left;
+    }
+
+    float: $position;
+    padding-#{$opposite}: $dislodged-space;
+}
+
+
+// Position secondary column and set its width
+//
+// $dislodged-space - set as the column width and pull with the same amount
+//                    towards the main column
+// $position - the position of the secondary column
+//
+@mixin l-fixed-column__column ($dislodged-space: 0, $position: right) {
+    $opposite: left;
+    @if $position == left {
+        $opposite: right;
+    }
+
+    float: $position;
+    width: $dislodged-space;
+    margin-#{$opposite}: ($dislodged-space * -1);
+}
+
+
+// Syntax sugar for calling the above 2 mixins
+//
+// $component - [main|column]
+// $dislodged-space - see above
+// $column-position: - [left|right] Position of the fixed (secondary) column
+
+@mixin l-fixed-column ($component: column, $dislodged-space: 0, $column-position: right) {
+    $opposite: left;
+    @if $column-position == left {
+        $opposite: right;
+    }
+
+    @if $component == main {
+        @include l-fixed-column__main ($dislodged-space, $opposite);
+    } @elseif $component == column {
+        @include l-fixed-column__column ($dislodged-space, $column-position);
+    }
+}

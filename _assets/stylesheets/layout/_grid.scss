@@ -1,0 +1,27 @@
+.l-grid {
+    @include cf;
+    margin: 0 -10px;
+}
+
+[class*="l-grid__unit"] {
+    @include box-sizing(border-box);
+
+    float: left;
+    width: 100%;
+    padding: 0 10px;
+}
+
+
+.l-grid--3rds {
+    & > .l-grid__unit {
+        width: 100 / 3 * 1%;
+    }
+
+    & > .l-grid__unit--pad {
+        margin-left: 100 / 3 * 1%;
+    }
+
+    & > .l-grid__unit--2x {
+        width: 100 / 3 * 1% * 2;
+    }
+}

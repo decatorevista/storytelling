@@ -1,0 +1,21 @@
+.section {
+
+}
+
+.section__title {
+    text-transform: none;
+    margin: 0 0 40px 0;
+}
+
+.section__row {
+    display: table;
+}
+
+.section__item {
+    display: table-cell;
+    padding-left: 20px;
+
+    &:first-child {
+        padding-left: 0;
+    }
+}

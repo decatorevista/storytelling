@@ -1,24 +1,36 @@
-nav data-headroom='true'
-  #main-menu
-    ul
-      li class='index'
-        a href='{{ site.base_url }}index.html'
-          | Home
-      li class='about'
-        a href='{{ site.base_url }}about.html'
-          | About
-      li class='speakers'
-        a href='{{ site.base_url }}speakers.html'
-          | Speakers
-      li class='schedule'
-        a href='{{ site.base_url }}schedule.html'
-          | Schedule
-      li
-        a href='http://shop.decatorevista.ro/product/conference-registration-full'
-          | Registration
-      li class='international'
-        a href='{{ site.base_url }}international.html'
-          | International participants
-      li class='partners'
-        a href='{{ site.base_url }}partners.html'
-          | Partners
+a.menu-open href='#primary-navigation' data-offscreen-control='trigger' Menu
+
+nav.offscreen-content#primary-navigation data-offscreen-control='nav'
+
+  ul.menu
+    li.menu__item.is-current
+      a href='{{ site.baseurl }}about.html'
+        | About
+    li.menu__item
+      a href='{{ site.baseurl }}speakers.html'
+        | Speakers
+    li.menu__item
+      a href='{{ site.baseurl }}schedule.html'
+        | Schedule
+    li.menu__item
+      a href='{{ site.baseurl }}registration.html'
+        | Registration
+    li.menu__item
+      a href='{{ site.baseurl }}partners.html'
+        | Partners
+    li.menu__item
+      a href='{{ site.baseurl }}blog/index.html'
+        | Blog
+    li.menu__item.dropdown
+      a.dropdown__trig href='#'
+        | Editions
+      ul.dropdown__pane.sub-menu
+        li.sub-menu__item
+          a href='#' 2013
+        li.sub-menu__item
+          a href='#' 2012
+        li.sub-menu__item
+          a href='#' 2011
+
+  a.menu-close href='#container' Return to content
+

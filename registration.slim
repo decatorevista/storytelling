@@ -1,0 +1,45 @@
+---
+layout: page-registration
+title: Registration
+sidebar: registration
+name: registration
+published: true
+---
+
+.copy
+  h1
+    | {{ page.title }}
+
+  p We have a limited number of Full spots open, and they will be given on a first come, first served basis.
+
+  p The registration is completed only when you have submitted the registration form and paid the fee.
+
+  .tabbed
+    ul.tabbed__nav
+      li.tabbed__trig
+        a href='#reg-full' Buy Full Ticket - 550 RON
+      li.tabbed__trig
+        a href='#reg-friday' Buy Friday only - 350 RON
+
+    .l-fields
+
+     .field
+        label.field__label for='reg-first'
+          | First name
+        .field__controls
+          input.control--full type='text'
+
+      .field
+        label.field__label for='reg-last'
+          | Last name
+        .field__controls
+          input.control--full type='text'
+
+
+    #reg-full.tabbed__pane.breakout
+      p asdasd
+
+    #reg-friday.tabbed__pane
+
+    .l-fields
+      p more fields

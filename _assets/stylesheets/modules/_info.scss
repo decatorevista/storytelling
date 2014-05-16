@@ -1,0 +1,50 @@
+.info {
+    clear: both;
+    padding: 15px 0 0 0;
+}
+
+.info__when {
+    @extend %type-headings;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+}
+
+.info__by {
+    @include squish-text;
+    background: url(asset_path('pullman.png')) 0 0 no-repeat;
+    width: 142px;
+    height: 25px;
+}
+
+.info__social {
+    width: 145px;
+    margin: 35px 0 0 0;
+    border-top: 3px solid #fff;
+    padding: 20px 0 0 0;
+}
+
+
+.info--condensed {
+    clear: none;
+    float: left;
+    width: 100%;
+
+    .info__when {
+        float: left;
+        margin: 0 15px 0 0;
+    }
+
+    .info__by {
+        float: left;
+    }
+
+    .info__social {
+        float: right;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        width: auto;
+    }
+}

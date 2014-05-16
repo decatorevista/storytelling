@@ -1,20 +1,32 @@
-.light data-speed='-10' data-offset-y='-120'
-  | {% slim nav.slim %}
-  .wrapper
-    header
-      .branding
-        .when
-          h3 Saturday, October 5, 2013 at
-        .by
-          img src='{% asset_path pullman.png %} ' alt='Pullman Hotels &amp; Resorts' title='Pullman Hotels &amp; Resorts'
+header.l-header.l-header--fixed
+  .l-wrap
 
-      .intro
-        p
-          | If stories can be a force for good as a society examines itself and sets 
-            course for the future, what are the best practices and tools needed to 
-            create impact? The conference will explore this question through 
-            discussions about reporting, writing creative nonfiction and producing 
-            documentary films.
-        .hosted-by
-          a href='http://www.decatorevista.ro/' target="_blank"
-            img src='{% asset_path decatorevista.png %} ' alt='Decât o Revistă' title='Decât o Revistă'
+    .l-header__branding
+      h1.branding
+        a href='{{ site.baseurl }}index.html'
+          img src='{% asset_path branding@2x.png %}' alt='The Power of Storytelling'
+    .l-header__content
+
+      | {% slim nav.slim %}
+
+      .info.info--condensed
+        p.info__when October 17-18, 2014
+        p.info__by Pullman Hotels &amp; Resorts
+
+        .info__social
+          ul.social
+            li
+              a href='#'
+                b Facebook
+                i.icon-facebook
+            li
+              a href='#'
+                b Twitter
+                i.icon-twitter
+            li.dropdown
+              a.dropdown__trig href='#'
+                b Facebook
+                i.icon-mail
+              form.dropdown__pane.subscribe.subscribe--inverse action='http://decatorevista.us4.list-manage.com/subscribe/post?u=e0e3ba0b168a961b7b80c955e&amp;id=392861be87' method='post'
+                input type='email' name='EMAIL' required='true' placeholder='Your email here...'
+                button type='submit' Subscribe

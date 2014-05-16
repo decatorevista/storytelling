@@ -1,0 +1,30 @@
+/* Body */
+
+body {
+    background: #fff;
+    color: $text-color;
+}
+
+
+/* Links */
+
+a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    &:focus {
+        @include default-focus;
+    }
+}
+
+
+/* Responsive precautions */
+
+img {
+    max-width: 100%;
+    height: auto;
+}

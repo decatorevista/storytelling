@@ -1,0 +1,107 @@
+.subscribe {
+
+}
+
+.subscribe {
+    width: 145px;
+    font-size: 12px;
+    @extend %type-headings;
+
+    border: 1px solid $magenta;
+    border-radius: 5px;
+
+    overflow: hidden;
+
+    input {
+        border: 0;
+        background: none;
+
+        @include placeholder {
+            color: $bw_4;
+            text-align: center;
+        }
+    }
+
+    button  {
+        background: none;
+        color: $magenta;
+        border: 0;
+        border-top: 1px solid $magenta;
+        width: 100%;
+        padding: 0.65em 0;
+
+        text-transform: uppercase;
+        font-weight: bold;
+
+        &:hover {
+            background: $magenta;
+            color: #fff;
+        }
+    }
+
+    &.dropdown__pane {
+        button {
+            border-top: 2px solid rgba(#fff, 0.5);
+        }
+    }
+
+}
+
+
+.subscribe--segmented {
+    display: table;
+    width: 100%;
+
+    input,
+    button {
+        @include box-sizing(border-box);
+        display: table-cell;
+        vertical-align: middle;
+    }
+
+    input {
+        width: 55%;
+        @include placeholder {
+            text-align: left;
+        }
+    }
+
+    button {
+        width: 45%;
+        border-top: 0;
+        border-left: 1px solid $magenta;
+    }
+
+}
+
+.subscribe--inverse {
+    background: $magenta;
+    color: #fff;
+
+    border-color: #fff;
+
+    input {
+        color: #fff;
+
+        @include placeholder {
+           color: #fff;
+        }
+    }
+
+    button {
+        color: #fff;
+        border-color: #fff;
+        background: $magenta;
+
+        &:hover {
+            background: #fff;
+            color: $magenta;
+        }
+    }
+
+    &.subscribe--segmeted {
+        button {
+            border-left-color: #fff;
+        }
+    }
+}

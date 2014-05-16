@@ -1,42 +1,26 @@
-.wrapper
-  section#notes
-    .contact
-      p
-        | If you have any questions, or if you would like to become
-          a supporter of the conference, email
-        a< href='mailto:storytelling@decatorevista.ro'
-          |storytelling@decatorevista.ro
-        |.
+footer.l-footer
+  .l-wrap
+    .l-grid.l-grid--3rds.copy-medium
+      .l-grid__unit.l-grid__unit--pad.l-grid__unit--2x
+        p
+          | If you have any questions, or if you would like to become
+            a supporter of the conference, email
+          a< href='mailto:storytelling@decatorevista.ro'
+            |storytelling@decatorevista.ro
+          |.
 
-      p
-        | See what happened at the
-        a<> href='http://decatorevista.ro/storytelling/2011/' target="_blank" 2011
-        | or
-        a<> href='http://decatorevista.ro/storytelling/2012/' target="_blank" 2012
-        | editions.
+        p
+          | &copy; 2013
+          a< href='http://decatorevista.ro' target="_blank"
+            | Decât o Revistă
 
+script src='//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js'
+| {%javascript main %}
+javascript:
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-
-.top
-  a href="#body"
-    img src="https://dl.dropboxusercontent.com/u/134995/PoS13/back-top.png"
-
-.lighted
-  .wrapper
-    footer
-
-      p
-        | &copy; 2013
-        a< href='http://decatorevista.ro' target="_blank"
-          | Decât o Revistă
-
-      script src='//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js'
-      | {%javascript application %}
-      javascript:
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-          ga('create', 'UA-9065846-2', 'decatorevista.ro');
-          ga('send', 'pageview');
+    ga('create', 'UA-9065846-2', 'decatorevista.ro');
+    ga('send', 'pageview');

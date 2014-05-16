@@ -1,0 +1,33 @@
+.dropdown {
+    position: relative;
+}
+
+.dropdown__pane {
+    position: absolute;
+    top: 30px;
+    right: 0;
+
+    background: $magenta;
+    color: #fff;
+
+    border: 2px solid #fff !important;
+    border-radius: 5px;
+    box-shadow: $magenta-dark 0 2px;
+
+    // opacity: 0;
+    // visibility: hidden;
+
+    // @include transition(opacity .2s ease-out);
+    // @include transition-property(opacity, margin-top, box-shadow);
+
+    // &.is-focused {
+    //     visibility: visible;
+    //     opacity: 1;
+    // }
+
+    display: none;
+
+    &.is-focused {
+        display: block;
+    }
+}

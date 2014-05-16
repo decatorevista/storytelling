@@ -1,0 +1,41 @@
+.social {
+    @include cf;
+
+    li {
+        float: left;
+        margin: 0 0 0 20px;
+        font-size: 22px;
+        line-height: 1;
+
+        &:first-child {
+            margin-left: 0;
+        }
+
+
+    }
+
+    a {
+        color: rgba(#fff, 0.5);
+        display: inline-block;
+        vertical-align: middle;
+
+        &:hover {
+            text-decoration: none;
+            color: #fff;
+        }
+    }
+
+    b {
+        @include squish-text;
+    }
+}
+
+.social--black {
+    a {
+        color: #000;
+
+        &:hover {
+            color: $magenta;
+        }
+    }
+}
