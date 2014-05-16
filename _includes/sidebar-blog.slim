@@ -1,0 +1,10 @@
+.l-sidebar__item.has-border
+  .widget
+    .widget__body.widget__body--flush.list
+        ul.listing
+          |
+            {% for post in site.posts %}
+              {% unless post.draft %}
+              <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+              {% endunless %}
+            {% endfor %}

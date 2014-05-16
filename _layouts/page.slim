@@ -30,6 +30,10 @@ body class='{{ page.name }}'
               {% slim sidebar-registration.slim %}
             {% endif %}
 
+            {% if page.sidebar == 'blog' %}
+              {% slim sidebar-blog.slim %}
+            {% endif %}
+
         .l-main
 
           .l-content
