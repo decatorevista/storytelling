@@ -21,25 +21,102 @@ published: true
       li.tabbed__trig
         a href='#reg-friday' Buy Friday only - 350 RON
 
-    .l-fields
+    .l-field-group.l-field-group--2cols
 
-     .field
+      .field
         label.field__label for='reg-first'
           | First name
+          i *
         .field__controls
-          input.control--full type='text'
+          input type='text' required='true' name='reg-first' id='reg-first'
 
       .field
         label.field__label for='reg-last'
           | Last name
+          i *
         .field__controls
-          input.control--full type='text'
+          input type='text' required='true' name='reg-last' id='reg-last'
+
+      .field
+        label.field__label for='reg-job'
+          | Job title
+        .field__controls
+          input type='text' name='reg-job' id='reg-job'
+
+      .field
+        label.field__label for='reg-company'
+          | Company
+          i *
+        .field__controls
+          input type='text' required='true' name='reg-company' id='reg-company' placeholder='If freelancing, write “freelance”'
+
+      .field
+        label.field__label for='reg-industry'
+          | Industry
+        .field__controls
+          input type='text' name='reg-industry' id='reg-industry' placeholder='Digital media, NGOs, PR etc.'
+
+      .field
+        label.field__label for='reg-country'
+          | Country
+          i *
+        .field__controls
+          input type='text' required='true' name='reg-country' id='reg-country'
+
+      .field
+        label.field__label for='reg-mail'
+          | Email
+          i *
+        .field__controls
+          input type='text' required='true' name='reg-mail' id='reg-mail'
+
+      .field
+        label.field__label for='reg-phone'
+          | Phone number
+          i *
+        .field__controls
+          input type='text' required='true' name='reg-phone' id='reg-phone'
 
 
-    #reg-full.tabbed__pane.breakout
-      p asdasd
+    #reg-full.tabbed__pane.l-field-group.l-field-group--breakout
+      .field
+        label.field__label
+          | Breakout track for Saturday
+          i *
+        .field__info
+          p Only for Full participants. Each track includes 3-4 workshop focusing on a particular type of skill. For more details, <a href="#">check out the Saturday schedule</a>.
+
+        .field__controls
+          label.control-radio
+            input type='radio' name='reg-track' checked='checked'
+            | Option 1
+          label.control-radio
+            input type='radio' name='reg-track'
+            | Option 2
+          label.control-radio
+            input type='radio' name='reg-track'
+            | Option 3
 
     #reg-friday.tabbed__pane
 
-    .l-fields
-      p more fields
+    .l-field-group
+      .field
+        label.field__label for='reg-where'
+          | Where did you hear about the conference?
+        .field__controls
+          input type='text' name='reg-where' id='reg-where' placeholder='E.g. conference newsletter, Facebook, Twitter, friends, colleagues etc.'
+
+      .field
+        label.field__label for='reg-motivates'
+          | What motivates you to attend?
+        .field__controls
+          textarea type='text' name='reg-motivates' id='reg-motivates'
+
+      .field.field--actions
+        .field__controls
+          button.button type='submit' Submit
+        .field__info
+          p
+            strong You will be directed to our payment processor.
+          p Please follow their instructions. Once the payment is completed, we will contact you with further instructions. Thank you for your interest!
+
