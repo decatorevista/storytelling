@@ -1,7 +1,7 @@
 name: The Power of Storytelling
 markdown: kramdown
 highlighter: null
-baseurl: /storytelling/2013/
+baseurl: /storytelling/2014/
 destination: public
 permalink: /blog/:title
 exclude:
@@ -12,7 +12,7 @@ exclude:
 assets:
   #js_compressor: uglifier
   # css_compressor: sass
-  baseurl: /storytelling/2013/assets/
+  baseurl: /storytelling/2014/assets/
   cachebust: soft
   sources:
     - _assets/fonts
