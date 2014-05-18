@@ -1,7 +1,7 @@
 require 'mina/ftp'
 
 # FTP settings
-set :ftp_path, 'decatorevista.ro/storytelling/2013'
+set :ftp_path, 'decatorevista.ro/storytelling/2014'
 set :ftp_host, ENV['FTP_HOST']
 set :ftp_username, ENV['FTP_USERNAME']
 set :ftp_password, ENV['FTP_PASSWORD']
