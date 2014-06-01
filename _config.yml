@@ -1,7 +1,7 @@
 name: The Power of Storytelling
 markdown: kramdown
 pygments: false
-baseurl: /storytelling/2013/
+baseurl: /2013/
 destination: public
 exclude:
   - Minafile
@@ -18,5 +18,5 @@ kramdown:
 assets:
   js_compressor: uglifier
   css_compressor: sass
-  baseurl: /storytelling/2013/assets/
+  baseurl: /2013/assets/
   cachebust: soft
